@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+unit_type = western
+primary_culture = vedinian
+religion = griffon_religion
+capital = 1	#Stockholm
+
+national_focus = DIP
+
+1440.6.20 = {
+	monarch = {
+		name = "Katarina"
+		dynasty = "Vedinhuvud"
+		female = yes
+		birth_date = 1409.10.5
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
