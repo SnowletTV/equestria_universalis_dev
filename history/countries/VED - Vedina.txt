@@ -4,7 +4,7 @@ technology_group = western
 unit_type = western
 primary_culture = vedinian
 religion = griffon_religion
-capital = 1	#Stockholm
+capital = 4361	#Stockholm
 
 national_focus = DIP
 
