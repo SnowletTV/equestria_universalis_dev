@@ -17,9 +17,14 @@ haukland_region = {
 
 vedina_region = {
 	areas = {
-	
+		skyrim_area
+		snalland_area
 	}
 }
+
+########################################
+# OBSOLEAT                            #
+########################################
 
 france_region = {
 	areas = {

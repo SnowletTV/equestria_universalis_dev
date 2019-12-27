@@ -2,6 +2,12 @@
  vedina_region:0 "Vedina"
  vedina_region_name:0 "Vedina"
  vedina_region_adj:0 "Vedinan
+ skyrim_area:0 "Skyrim"
+ skyrim_area_name:0 "Skyrim"
+ skyrim_area_adj:0 "Nord"
+ snalland_area:0 "Snälland"
+ snalland_area_name:0 "Snälland"
+ snalland_area_adj:0 "Snällander"
  haukland_area:0 "Haukland"
  haukland_area_name:0 "Haukland"
  haukland_area_adj:0 "Hauklander"

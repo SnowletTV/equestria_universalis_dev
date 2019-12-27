@@ -292,7 +292,12 @@ worlds_end_area = {
 ########################################
 # Vedina					 		   #
 ########################################
-
+skyrim_area = {
+	2752 23 4110
+}
+snalland_area = {
+	250 252 4119 4380
+}
 
 ########################################
 # France					 		   #
@@ -515,7 +520,7 @@ munster_area = { #3
 }
 
 connacht_area = { #3
-	375 376 4119
+	375 376
 }
 
 leinster_area = { #4
@@ -523,14 +528,14 @@ leinster_area = { #4
 }
 
 ulster_area = { #3
-	372 4121 4380
+	372 4121
 }
 
 kingdom_of_the_isles_area = { #3
 }
 
 highlands_area = { #5
-	250 252 4110 4363
+	4363
 }
 
 lowlands_area = { #3
@@ -634,7 +639,7 @@ eastern_norway = { #4
 }
 
 western_norway = { #4
-	23 2752 4145
+	4145
 }
 
 subarctic_islands_area = { #2
