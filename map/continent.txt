@@ -1,5 +1,8 @@
 griffonia = {
-
+	#Haukland
+	4365 4364 1978 369 1979 253
+	#Vedina
+	
 }
 equus = {
 

@@ -5,8 +5,21 @@ random_new_world_region = {
 }
 
 ########################################
-# EUROPE                               #
+# Griffonia                            #
 ########################################
+
+haukland_region = {
+	areas = {
+		haukland_area
+		worlds_end_area
+	}
+}
+
+vedina_region = {
+	areas = {
+	
+	}
+}
 
 france_region = {
 	areas = {

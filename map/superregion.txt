@@ -1,5 +1,18 @@
 # A region can only belong to one super region.
 
+northern_griffonia_superregion = {
+	vedina_region
+	haukland_region
+}
+
+southern_griffonia_superregion = {
+
+}
+
+eastern_griffonia_superregion = {
+
+}
+
 india_superregion = {
 	bengal_region
 	hindusthan_region
