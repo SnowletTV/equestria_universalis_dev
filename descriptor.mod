@@ -16,7 +16,6 @@ replace_path="events"
 replace_path="missions"
 
 replace_path="common/client_states"
-replace_path="common/colonial_regions"
 replace_path="common/countries"
 replace_path="common/country_tags"
 replace_path="common/disasters"
