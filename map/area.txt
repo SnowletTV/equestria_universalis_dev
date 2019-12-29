@@ -296,7 +296,13 @@ skyrim_area = {
 	2752 23 4110
 }
 snalland_area = {
-	250 252 4119 4380
+	250 252 4119
+}
+sydvastland_area = {
+	251 4363 4362 249
+}
+kullbotten_area = {
+	372 4121 4380
 }
 
 ########################################
@@ -528,18 +534,18 @@ leinster_area = { #4
 }
 
 ulster_area = { #3
-	372 4121
+
 }
 
 kingdom_of_the_isles_area = { #3
 }
 
 highlands_area = { #5
-	4363
+	
 }
 
 lowlands_area = { #3
-	248 249 251
+	248
 }
 
 wales_area = { #4
@@ -547,7 +553,7 @@ wales_area = { #4
 }
 
 scottish_marches_area = { #4
-	246 247 4361 4362
+	246 247 4361
 }
 
 yorkshire_area = { #3
