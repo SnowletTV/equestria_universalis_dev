@@ -282,7 +282,7 @@ bahama_channel_area = {
 # Haukland					 		   #
 ########################################
 haukland_area = {
-	4365 4364
+	4365 4364 242
 }
 worlds_end_area = {
 	1978 369 1979 253

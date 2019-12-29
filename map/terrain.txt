@@ -235,7 +235,7 @@ categories =  {
 		supply_limit = 6 
 		
 		terrain_override = {
-			369 1978 4364
+			369 1978 4364 242
 		}
 	}	
 	
