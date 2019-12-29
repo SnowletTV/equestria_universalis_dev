@@ -299,10 +299,19 @@ snalland_area = {
 	250 252 4119
 }
 sydvastland_area = {
-	251 4363 4362 249
+	251 4363 4362
 }
 kullbotten_area = {
 	372 4121 4380
+}
+flodbotten_area = {
+	373 4120 376
+}
+kungland_area = {
+	4361 248 249
+}
+ostland_area = {
+	4377 4379 374
 }
 
 ########################################
@@ -522,15 +531,15 @@ central_italy_area = { #4
 ########################################
 
 munster_area = { #3
-	4118 4377 4378
+	4118 4378
 }
 
 connacht_area = { #3
-	375 376
+	375
 }
 
 leinster_area = { #4
-	373 374 4120 4379
+	
 }
 
 ulster_area = { #3
@@ -545,7 +554,7 @@ highlands_area = { #5
 }
 
 lowlands_area = { #3
-	248
+	
 }
 
 wales_area = { #4
@@ -553,7 +562,7 @@ wales_area = { #4
 }
 
 scottish_marches_area = { #4
-	246 247 4361
+	246 247
 }
 
 yorkshire_area = { #3

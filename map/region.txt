@@ -19,6 +19,11 @@ vedina_region = {
 	areas = {
 		skyrim_area
 		snalland_area
+		sydvastland_area
+		kullbotten_area
+		flodbotten_area
+		kungland_area
+		ostland_area
 	}
 }
 
