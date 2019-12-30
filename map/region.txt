@@ -25,9 +25,9 @@ vedina_region = {
 
 herzland_region = {
 	areas = {
-		northern_saxony_area
-		home_counties_area
-		jutland_area
+		aiwle_area
+		rottendestaat_area
+		buckmour_area
 	}
 }
 
