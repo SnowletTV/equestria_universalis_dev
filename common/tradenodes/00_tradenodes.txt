@@ -116,7 +116,7 @@ haukland={
 	}
 }
 rottendedam={
-	location=237
+	location=236
 	color={
 		122 150 128 
 	}
