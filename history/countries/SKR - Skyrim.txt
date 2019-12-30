@@ -4,19 +4,18 @@ technology_group = western
 unit_type = western
 primary_culture = vedinian
 religion = old_believer
-capital = 4361	#Stockholm
-fixed_capital = 4361
+capital = 23	#Stockholm
 
-national_focus = DIP
+national_focus = MIL
 
 1440.6.20 = {
 	monarch = {
-		name = "Katarina"
-		dynasty = "Wingstorm"
-		female = yes
-		birth_date = 1409.10.5
-		adm = 3
-		dip = 4
-		mil = 1
+		name = "Ulfric"
+		dynasty = "Wulfharth"
+		female = no
+		birth_date = 1403.10.5
+		adm = 2
+		dip = 1
+		mil = 4
 	}
 }

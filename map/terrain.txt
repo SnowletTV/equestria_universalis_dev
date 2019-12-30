@@ -79,6 +79,7 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9
 		
 		terrain_override = { 
+			770 2969 2752
 		}                                      
 	}
 	
@@ -96,7 +97,7 @@ categories =  {
 		supply_limit = 5
 		
 		terrain_override = {
-			238 46 21 27 1930 1776 
+			238 46 21 27 1930 1776 4379
 		}
 	}
 
@@ -114,7 +115,7 @@ categories =  {
 		supply_limit = 6
 		
 		terrain_override = {
-			252 4121 1931 55 52 2964 1874 4145 2752
+			1 23 237 240 243 249 252 4121 1931 55 52 2964 1874 4145 2752 26 4367 4363
 		}
 	}
 	
@@ -158,6 +159,7 @@ categories =  {
 		nation_designer_cost_multiplier = 1
 		
 		terrain_override = {
+			4114
 		}
 	}
 
@@ -190,7 +192,7 @@ categories =  {
 		supply_limit = 5
 
 		terrain_override = {
-			17 32 
+			17 32 235 4305
 		}
 	}
 	

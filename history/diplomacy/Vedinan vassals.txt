@@ -1,0 +1,6 @@
+vassal = {
+	first = VED
+	second = SKR
+	start_date = 1435.1.1
+	end_date = 1670.1.1
+}

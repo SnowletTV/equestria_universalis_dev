@@ -3,10 +3,12 @@
 owner = VED
 controller = VED
 culture = vedinian
-religion = griffon_religion
+religion = old_believer
 add_core = VED
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+
+discovered_by = western

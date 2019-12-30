@@ -8,3 +8,4 @@ EQS = "countries/Equestria.txt"
 
 # Griffonia
 VED = "countries/Vedina.txt"
+SKR = "countries/Skyrim.txt"

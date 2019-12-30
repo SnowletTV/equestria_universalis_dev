@@ -1,0 +1,117 @@
+boreas =
+{
+	prestige = 0.5
+	global_tax_modifier = 0.1
+	
+	allow = { 
+		OR = {
+			religion = archonate
+			religion = old_believer
+		}
+	}
+	sprite = 7
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_diplomat
+		}
+	}
+}
+eyr =
+{
+	global_manpower_modifier = 0.1
+	local_development_cost = -0.1
+	
+	allow = { 
+		OR = {
+			religion = archonate
+			religion = old_believer
+		}
+	}
+	sprite = 8
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}
+	}
+}
+arcturius =
+{
+	leader_land_shock = 1
+	discipline = 0.05
+	
+	allow = { 
+		OR = {
+			religion = archonate
+			religion = old_believer
+		}
+	}
+	sprite = 9
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 5 }
+		}
+		modifier = {
+			factor = 2
+			NOT = { num_of_cities = 10 }
+		}
+		modifier = {
+			factor = 0.5
+			num_of_cities = 30
+		}
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_capitalist
+		}		
+	}
+}
+wise_lady =
+{
+	legitimacy = 0.1
+	horde_unity = 0.1
+	technology_cost = -0.05
+	
+	allow = {
+		OR = {
+			tag = VED
+			tag = SKR
+		}
+		OR = {
+			religion = archonate
+			religion = old_believer
+		}
+	}
+	sprite = 12
+	
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_diplomat
+		}	
+		modifier = {
+			factor = 0.5
+			personality = ai_militarist
+		}		
+	}
+}
