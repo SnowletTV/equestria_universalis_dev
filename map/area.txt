@@ -252,7 +252,7 @@ bahama_channel_area = {
 #}
 
 #baltic_lakes_area = {
-#	1260 1261 1262 1250 1251 1883 1884 1885 1886 1887 1977 2953
+#	1260 1261 1262 1250 1251 1883 1884 1885 1886 1887 1977
 #}
 
 #african_lakes_area = {
@@ -626,11 +626,11 @@ norrland_area = { #4
 }
 
 finland_area = { #5
-	27 28 29 31 4123
+	27 28 29 31 4123 1977
 }
 
-bothnia_area = { #3
-	19 4113 4152
+bothnia_area = { #4 
+	19 4113 4152 2953
 }
 
 laponia_area = { #3
