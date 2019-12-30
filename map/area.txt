@@ -1318,7 +1318,7 @@ mascat_area = { #3 (Batinah and Muscat coast
 
 syrian_desert_area = { #3
 	color = { 219 30 57 }
-	405 4270 4271
+	4270 4271
 }
 
 ########################################
