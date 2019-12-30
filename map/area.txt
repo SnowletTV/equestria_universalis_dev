@@ -582,7 +582,7 @@ wessex_area = { #5
 }
 
 home_counties_area = { #4
-	235 236 237 4371 
+	235 236 237 4371 1775
 }
 
 east_anglia_area = { #3
@@ -594,11 +594,11 @@ east_anglia_area = { #3
 ########################################
 
 jutland_area = { #4
-	15 1984 4142 4149
+	1981 4142 4141 2997 4149 13
 }
 
 denmark_area = { #4 +Bornholm
-	12 14 1981 1983
+	12 14 1983
 }
 
 skaneland_area = { #4
@@ -689,7 +689,7 @@ east_prussia_area = { #4
 }
 
 west_prussia_area = { #4 (South West Prussia)
-	2997 42 43 1841
+	 42 43 1841
 }
 
 wielkopolska_area = { #5
@@ -936,11 +936,11 @@ upper_swabia_area = { #3
 
 northern_saxony_area = { #3 (Saxe-Altmark)
 	color = { 229 20 20 }
-	52 58 2964
+	58 62 59 1759
 }
 
 thuringia_area = { #3
-	62 63 2965
+	 63 2965
 }
 
 neumark_area = { #3
@@ -949,7 +949,7 @@ neumark_area = { #3
 }
 
 mittelmark_area = { # 3
-	50 51 1759
+	50 51 
 }
 
 vorpommern_area = { #3
@@ -1019,7 +1019,7 @@ weser_area = { #3
 }
 
 holstein_area = { #3
-	13 1775 4141 
+	  
 }
 
 lower_saxony_area = { #3
@@ -1318,7 +1318,7 @@ mascat_area = { #3 (Batinah and Muscat coast
 
 syrian_desert_area = { #3
 	color = { 219 30 57 }
-	4270 4271
+    4270 4271
 }
 
 ########################################
@@ -1907,7 +1907,7 @@ khiva_area = { #5
 }
 
 kabulistan_area = { #5
-	color = { 96 219 58 }
+	color = { 96 219 }
 	448 451 452 578 2226
 }
 
@@ -2006,7 +2006,7 @@ upper_doab_area = { #3
 }
 
 lower_doab_area = { #4
-	color = { 212 199 59 }
+	color = { 212 199  }
 	524 556 2063 4496
 }
 
@@ -3710,3 +3710,4 @@ pomerelia_area = { }
 sonora_y_sinaloa_area  = { }
 
 magadan_area = { }
+rea = { }

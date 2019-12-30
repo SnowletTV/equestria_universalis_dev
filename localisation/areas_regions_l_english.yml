@@ -31,9 +31,6 @@
  worlds_end_area:0 "World's End"
  worlds_end_area_name:0 "World's End"
  worlds_end_area_adj:0 "World's Endian"
- haukland_region:0 "Haukland"
- haukland_region_name:0 "Haukland"
- haukland_region_adj:0 "Hauklander"
  northern_griffonia_superregion:0 "Northern Griffonia"
  northern_griffonia_superregion_name:0 "Northern Griffonia"
  northern_griffonia_superregion_adj:0 "Northern Griffonian"
@@ -45,3 +42,18 @@
  eastern_griffonia_superregion_adj:0 "Eastern Griffonian"
  griffonia:0 "Griffonia"
  griffonia_adj:0 "Griffonian"
+ 
+ #Feathisia
+ home_counties_area:0 "Rottendestaat"
+ home_counties_area_name:0 "Rottendestaat"
+ home_counties_area_adj:0 "Rottendestatian"
+ northern_saxony_area:0 "Aiwle"
+ northern_saxony_area_name:0 "Aiwle"
+ northern_saxony_area_adj:0 "Aiwlian"
+ jutland_area:0 "Buckmour"
+ jutland_area_name:0 "Buckmour"
+ jutland_area_adj:0 "Buckmorian"
+
+ herzland_region:0 "Herzland"
+ herzland_region_name:0 "Herzland"
+ herzland_region_adj:0 "Herzlander"

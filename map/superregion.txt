@@ -2,7 +2,7 @@
 
 northern_griffonia_superregion = {
 	vedina_region
-	haukland_region
+	herzland_region
 }
 
 southern_griffonia_superregion = {

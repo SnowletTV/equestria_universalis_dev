@@ -8,12 +8,6 @@ random_new_world_region = {
 # Griffonia                            #
 ########################################
 
-haukland_region = {
-	areas = {
-		haukland_area
-		worlds_end_area
-	}
-}
 
 vedina_region = {
 	areas = {
@@ -24,6 +18,16 @@ vedina_region = {
 		flodbotten_area
 		kungland_area
 		ostland_area
+		haukland_area
+		worlds_end_area
+	}
+}
+
+herzland_region = {
+	areas = {
+		northern_saxony_area
+		home_counties_area
+		jutland_area
 	}
 }
 
@@ -57,7 +61,6 @@ scandinavia_region = {
 		norrland_area
 		gotaland_area
 		skaneland_area
-		jutland_area
 		denmark_area
 		finland_area
 		northern_norway
@@ -106,7 +109,6 @@ north_german_region = {
 	areas = { 
 		erzgebirge_area
 		south_saxony_area
-		northern_saxony_area
 		thuringia_area
 		neumark_area
 		mittelmark_area
@@ -210,7 +212,6 @@ british_isles_region = {
 		yorkshire_area
 		scottish_marches_area
 		wessex_area
-		home_counties_area
 		east_anglia_area
 		wales_area
 		lowlands_area
