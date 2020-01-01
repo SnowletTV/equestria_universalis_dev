@@ -31,6 +31,18 @@ herzland_region = {
 	}
 }
 
+cloudbury_region = {
+	areas = {
+		bleakspire_area
+		winghagen_area
+		cloudbury_area
+		cavegrove_area
+		lostgate_area
+		dyingland_area
+		blueland_area
+	}
+}
+
 ########################################
 # OBSOLEAT                            #
 ########################################

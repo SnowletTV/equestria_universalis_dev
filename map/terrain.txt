@@ -62,7 +62,7 @@ categories =  {
 		nation_designer_cost_multiplier = 1.05
 		
 		terrain_override = {
-			4361 45 44 54 
+			4361 45 44 54 244
 		}		
 	}
 	
@@ -79,7 +79,7 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9
 		
 		terrain_override = { 
-			770 2969 2752
+			1 4145 4367 2752 252 4121 4363 249 2752 23 240
 		}                                      
 	}
 	
@@ -97,7 +97,7 @@ categories =  {
 		supply_limit = 5
 		
 		terrain_override = {
-			238 46 21 27 1930 1776 4379
+			20 238 46 21 27 1930 1776 4379 375 4378
 		}
 	}
 
@@ -115,7 +115,7 @@ categories =  {
 		supply_limit = 6
 		
 		terrain_override = {
-			1 23 237 240 243 249 252 4121 1931 55 52 2964 1874 4145 2752 26 4367 4363
+			237 1931 55 52 2964 1874 4145 26 2969 770
 		}
 	}
 	
@@ -271,8 +271,8 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9	
 
 		terrain_override = {
-			4119 4380 372 376 16 5 4164 4114 4378 375 1861 4370
-			36 35
+			4119 4380 372 376 16 5 4164 4114 1861 4370
+			36 35 245
 		}
 	}
 

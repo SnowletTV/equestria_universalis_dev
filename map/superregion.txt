@@ -3,6 +3,7 @@
 northern_griffonia_superregion = {
 	vedina_region
 	herzland_region
+	cloudbury_region
 }
 
 southern_griffonia_superregion = {
