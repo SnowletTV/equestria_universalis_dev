@@ -391,6 +391,23 @@ romau_area = {
 reitscheid_area = {
 	270 1936 4534
 }
+
+strawberry_area {
+	 9 4163 4166
+}
+
+winterbell_area {
+	49 1982 4165
+}
+
+osnabeak_area {
+	272 273 770 1960 4535
+}
+
+zwergenschwanz_area {
+	35 36 2995
+}
+
 ########################################
 # France					 		   #
 ########################################
@@ -667,16 +684,12 @@ east_anglia_area = { #3
 ########################################
 
 
-skaneland_area = { #4
-	   1982 4165
-}
-
 gotaland_area = { #3 Östra Götaland
-	2 3 25 4166
+	2 3 25 
 }
 
 vastra_gotaland_area = { #Västra Götaland #4
-	7 4163 4164
+	7  4164
 }
 
 svealand_area = { #3
@@ -688,7 +701,7 @@ ostra_svealand_area = { #4
 }
 
 norrland_area = { #4
-	9 11 4114
+	 11 4114
 }
 
 finland_area = { #5
@@ -739,15 +752,15 @@ greenland_area = { #2
 ########################################
 
 estonia_ingria_area = { #3
-	36 1834 1842
+	 1834 1842
 }
 
 livonia_area = { #4
-	37 38 273 4241
+	37 38  4241
 }
 
 curonia_area = { #3
-	35 39 1935
+	 39 1935
 }
 
 east_prussia_area = { #4
@@ -804,7 +817,7 @@ samogitia_area = { #4
 }
 
 lithuania_area = { #5
-	272 770 4535 4536
+	   4536
 }
 
 west_dniepr_area = { #4 Right Bank Ukraine
@@ -886,7 +899,7 @@ novgorod_area = { #5
 }
 
 pskov_area = { #4
-	274 275 1960 4148
+	274 275  4148
 }
 
 vologda_area = { #3
@@ -1001,10 +1014,6 @@ thuringia_area = { #3
 	 63 2965
 }
 
-neumark_area = { #3
-	color = { 234 232 44 }
-	49  
-}
 
 mittelmark_area = { # 3
 	 51 
@@ -1014,9 +1023,6 @@ vorpommern_area = { #3
 	47 2993 
 }
 
-hinter_pommern_area = { #3
-	  2995
-}
 
 tirol_area = { #3
 	73 110 1768

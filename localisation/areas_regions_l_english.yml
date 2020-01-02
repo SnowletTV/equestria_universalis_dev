@@ -104,6 +104,20 @@
  thurwingen_rima_area_name:0 "Thurwingen-Rima"
  thurwingen_rima_area_adj:0 "Thurwingen-Riman"
 
+ #Strawberry
+ strawberry_area:0 "Strawberry"
+ strawberry_area_name:0 "Strawberry"
+ strawberry_area_adj:0 "Strawberry"
+ winterbell_area:0 "Winterbell"
+ winterbell_area_name:0 "Winterbell"
+ winterbell_area_adj:0 "Winterbellish"
+ osnabeak_area:0 "Osnabeak"
+ osnabeak_area_name:0 "Osnabeak"
+ osnabeak_area_adj:0 "Osnabeaker"
+ zwergenschwanz_area:0 "Zwergenschwanz"
+ zwergenschwanz_area_name:0 "Zwergenschwanz"
+ zwergenschwanz_area_adj:0 "Zwergenschwanzer"
+
  herzland_region:0 "Herzland"
  herzland_region_name:0 "Herzland"
  herzland_region_adj:0 "Herzlander"

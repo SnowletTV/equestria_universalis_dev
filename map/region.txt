@@ -36,6 +36,10 @@ herzland_region = {
 		reitscheid_area
 		romau_area
 		thurwingen_rima_area
+		strawberry_area
+		winterbell_area
+		osnabeak_area
+		zwergenschwanz_area
 	}
 }
 
