@@ -52,6 +52,19 @@ cloudbury_region = {
 		lostgate_area
 		dyingland_area
 		blueland_area
+		brantbeak_area
+		arrowpeaks_area
+		dimpeak_area
+		silkhorn_area
+	}
+}
+
+northern_coast_region = {
+	areas = {
+		skynavia_area
+		liftauf_area
+		cubria_area
+		morker_area
 	}
 }
 

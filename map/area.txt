@@ -346,6 +346,42 @@ blueland_area = {
 	4 10 8
 }
 
+brantbeak_area = {
+	11 1940 285 4553
+}
+
+arrowpeaks_area = {
+	2197 463 284 2416
+}
+
+dimpeak_area = {
+	4152 1961 287
+}
+
+silkhorn_area = {
+	464 2410 2417
+}
+
+########################################
+# Northern coast					   #
+########################################
+
+skynavia_area = {
+	17 4145 4144 4143
+}
+
+liftauf_area = {
+	4241 22 20
+}
+
+cubria_area = {
+	21 5 4164 4114
+}
+
+morker_area = {
+	315 38 4113 39
+}
+
 ########################################
 # Herzland					 		   #
 ########################################
@@ -552,7 +588,7 @@ basque_country = { #3
 
 leon_area = { #5
 	color = { 243 235 28 }
-	208 216 218 1747 4553
+	208 216 218 1747
 }
 
 beieras_area = { #4
@@ -689,11 +725,11 @@ gotaland_area = { #3 Östra Götaland
 }
 
 vastra_gotaland_area = { #Västra Götaland #4
-	7  4164
+	7 
 }
 
 svealand_area = { #3
-	5  
+	  
 }
 
 ostra_svealand_area = { #4
@@ -701,7 +737,7 @@ ostra_svealand_area = { #4
 }
 
 norrland_area = { #4
-	 11 4114
+	  
 }
 
 finland_area = { #5
@@ -709,11 +745,11 @@ finland_area = { #5
 }
 
 bothnia_area = { #4 
- 4113 4152
+
 }
 
 laponia_area = { #3
-	315 1777 4151
+	 1777 4151
 }
 
 karelia_area = { #4
@@ -725,15 +761,15 @@ north_karelia = { #3
 }
 
 northern_norway = { #3
-    20 21
+     
 }
 
 eastern_norway = { #4
-	17 22 4143 4144
+	 
 }
 
 western_norway = { #4
-	4145
+	
 }
 
 subarctic_islands_area = { #2
@@ -756,11 +792,11 @@ estonia_ingria_area = { #3
 }
 
 livonia_area = { #4
-	37 38  4241
+	37
 }
 
 curonia_area = { #3
-	 39 1935
+	1935
 }
 
 east_prussia_area = { #4
@@ -780,7 +816,7 @@ malopolska_area = { #5
 }
 
 red_ruthenia_area = { #5 
-	261 1940 2424 2961 4541
+	261 2424 2961 4541
 }
 
 podolia_volhynia_area = { #3
@@ -845,11 +881,11 @@ zaporizhia_area = { #3
 }
 
 azov_area = { #4
-	286 287 2413 2414
+	286 2413 2414
 }
 
 crimea_area = { #4
-	284 285 2410 2447
+	284 2447
 }
 
 white_ruthenia_area = { #3
@@ -911,7 +947,7 @@ beloozero_area = { #3
 }
 
 astrakhan_area = { #5
-	464 466 468 2416 2417
+	466 468
 }
 
 lower_don_area = { #4
@@ -1198,7 +1234,7 @@ shirvan_area = { #5 #Northern Azerbaijan
 }
 
 circassia_area = { #4
-	463 2201 2195 2197
+	2201 2195
 }
 
 dagestan_area = { #5

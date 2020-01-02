@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+unit_type = western
+primary_culture = cloudburian
+religion = old_believer
+capital = 375
+
+national_focus = MIL
+
+1440.6.20 = {
+	monarch = {
+		name = "Knut"
+		dynasty = "Gråklo"
+		female = no
+		birth_date = 1414.10.5
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}

@@ -10,6 +10,7 @@ EQS = "countries/Equestria.txt"
 VED = "countries/Vedina.txt"
 SKR = "countries/Skyrim.txt"
 KAT = "countries/Katerin.txt"
+BLK = "countries/Bleakspire.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
