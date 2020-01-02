@@ -28,6 +28,14 @@ herzland_region = {
 		aiwle_area
 		rottendestaat_area
 		buckmour_area
+		mirabelle_area
+		de_vleugels_area
+		allwerder_area
+		groote_vlackte_area
+		luxwingburg_area
+		reitscheid_area
+		romau_area
+		thurwingen_rima_area
 	}
 }
 

@@ -360,6 +360,37 @@ buckmour_area = { #4
 	1981 4142 4141 2997 4149 13
 }
 
+mirabelle_area = {
+	1 1858 1985 2994
+}
+
+de_vleugels_area = {
+	6 26 48 1859 4523
+}
+
+allwerder_area = {
+	12 14 50 1763 4524
+}
+
+groote_vlackte_area = {
+	15 41 1841 1983 1984 2963
+}
+
+luxwingburg_area = {
+	254 2969 4526 4528
+}
+
+thurwingen_rima_area = {
+	262 263 278 279
+}
+
+romau_area = {
+	259 260 277 4538
+}
+
+reitscheid_area = {
+	270 1936 4534
+}
 ########################################
 # France					 		   #
 ########################################
@@ -635,12 +666,9 @@ east_anglia_area = { #3
 # Scandinavia			 			   #
 ########################################
 
-denmark_area = { #4 +Bornholm
-	12 14 1983
-}
 
 skaneland_area = { #4
-	6  26 1982 4165
+	   1982 4165
 }
 
 gotaland_area = { #3 Östra Götaland
@@ -652,11 +680,11 @@ vastra_gotaland_area = { #Västra Götaland #4
 }
 
 svealand_area = { #3
-	5 1985 
+	5  
 }
 
 ostra_svealand_area = { #4
-	1 1930
+	 1930
 }
 
 norrland_area = { #4
@@ -723,19 +751,19 @@ curonia_area = { #3
 }
 
 east_prussia_area = { #4
-	40 41 767 2958
+	40  767 2958
 }
 
 west_prussia_area = { #4 (South West Prussia)
-	 42 43 1841
+	 42 43 
 }
 
 wielkopolska_area = { #5
-   254 4526 255 2963
+     255 
 }
 
 malopolska_area = { #5
-	262 4527 2960
+	 4527 2960
 }
 
 red_ruthenia_area = { #5 
@@ -747,15 +775,15 @@ podolia_volhynia_area = { #3
 }
 
 volhynia_area = { # 4
-	279 2962 4539 4538
+	 2962 4539 
 }
 
 pripyat_area = { #4
-	 278 1941 4537 4545
+	  1941 4537 4545
 }
 
 podlasie_area = {
-	269 277 1937
+	269  1937
 }
 
 mazovia_area = { #4
@@ -767,15 +795,12 @@ central_poland_area = {
 }
 
 sandomierz_area = {
-	260 2959 259   
+	 2959    
 }
 
-kuyavia_area = {
-	4523 1859 4524 4528
-}
 
 samogitia_area = { #4
-	270 271 1936 4534 
+	 271   
 }
 
 lithuania_area = { #5
@@ -791,7 +816,7 @@ east_dniepr_area = { #4 Left bank Ukraine
 }
 
 chernigov_area = {
-	1945 289 4543
+	1945 289 
 }
 
 sloboda_ukraine_area = { #4
@@ -937,7 +962,7 @@ saratov_area = { #3
 ########################################
 
 silesia_area = { #4
-	263 264 2966 4238
+	 264 2966 4238
 }
 
 bohemia_area = { #5
@@ -978,19 +1003,19 @@ thuringia_area = { #3
 
 neumark_area = { #3
 	color = { 234 232 44 }
-	49 1763 2969
+	49  
 }
 
 mittelmark_area = { # 3
-	50 51 
+	 51 
 }
 
 vorpommern_area = { #3
-	47 2993 2994
+	47 2993 
 }
 
 hinter_pommern_area = { #3
-	48 1858 2995
+	  2995
 }
 
 tirol_area = { #3
