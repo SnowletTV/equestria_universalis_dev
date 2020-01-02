@@ -178,3 +178,49 @@ hertzlander = {
 		Waltraut Wanja Wibke Wiebke Wilhelmina Wilhelmine Wilma Xenia Yasmin Yvonne Zäzilia Zäzilie Zoe
 	}
 }
+riverpony_group = {
+	graphical_culture = easterngfx
+	riverpony = {
+		primary = RCT
+		
+		male_names = {
+			Water
+		}
+		female_names = { 
+			River
+		}
+	}
+	lakepony = {
+		primary = LCT
+		
+		male_names = {
+			Lake
+		}
+		female_names = { 
+			Flower
+		}
+	}
+	nimbusian = {
+		primary = NIM
+		
+		male_names = {
+			Flash
+		}
+		female_names = { 
+			Flower
+		}
+	}
+}
+diamond_dog = {
+	graphical_culture = easterngfx
+	diamond = {
+		primary = DMT
+		
+		male_names = {
+			Snuffles
+		}
+		female_names = { 
+			Rosey
+		}
+	}
+}
