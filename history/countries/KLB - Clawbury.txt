@@ -13,7 +13,7 @@ national_focus = ADM
 
 1399.1.1 = {
 	monarch = {
-		name = "ByrÃ¥d"
+		name = "Byråd"
 		adm = 3
 		dip = 3
 		mil = 3
