@@ -1,0 +1,12 @@
+owner = BLL
+controller = BLL
+culture = cloudburian
+religion = archonate
+add_core = BLL
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = western

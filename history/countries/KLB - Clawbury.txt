@@ -1,0 +1,22 @@
+government = republic
+add_government_reform = free_city
+government_rank = 1
+mercantilism = 25
+technology_group = western
+unit_type = western
+primary_culture = cloudburian
+religion = archonate
+capital = 1860
+fixed_capital = 1860
+
+national_focus = ADM
+
+1399.1.1 = {
+	monarch = {
+		name = "Byråd"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

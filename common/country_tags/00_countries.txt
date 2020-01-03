@@ -11,6 +11,11 @@ VED = "countries/Vedina.txt"
 SKR = "countries/Skyrim.txt"
 KAT = "countries/Katerin.txt"
 BLK = "countries/Bleakspire.txt"
+VNG = "countries/Winghagen.txt"
+CLD = "countries/Cloudbury.txt"
+WND = "countries/Windford.txt"
+BLL = "countries/Blueland.txt"
+KLB = "countries/Clawbury.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
