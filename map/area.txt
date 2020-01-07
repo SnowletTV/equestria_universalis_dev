@@ -382,6 +382,21 @@ morker_area = {
 	315 38 4113 39
 }
 
+coastal_arcturia_area = {
+    1776 1930 29 4124
+}
+
+inner_arcturia_area = {
+    27 28 7 30 32
+}
+
+the_passage_area = {
+    4123 1977 2
+}
+
+magehold_area = {
+    3 31 25
+}
 ########################################
 # Herzland					 		   #
 ########################################
@@ -721,11 +736,11 @@ east_anglia_area = { #3
 
 
 gotaland_area = { #3 Östra Götaland
-	2 3 25 
+	
 }
 
 vastra_gotaland_area = { #Västra Götaland #4
-	7 
+	 
 }
 
 svealand_area = { #3
@@ -733,7 +748,7 @@ svealand_area = { #3
 }
 
 ostra_svealand_area = { #4
-	 1930
+	 
 }
 
 norrland_area = { #4
@@ -741,7 +756,7 @@ norrland_area = { #4
 }
 
 finland_area = { #5
-	27 28 29 31 4123 1977
+	 
 }
 
 bothnia_area = { #4 
@@ -753,11 +768,11 @@ laponia_area = { #3
 }
 
 karelia_area = { #4
-	30 33 34 1961
+	 33 34 
 }
 
 north_karelia = { #3
-	32 309 4124
+	 309 
 }
 
 northern_norway = { #3
@@ -828,7 +843,7 @@ volhynia_area = { # 4
 }
 
 pripyat_area = { #4
-	  1941 4537 4545
+	  1941 4537 4545 4543
 }
 
 podlasie_area = {
@@ -885,7 +900,7 @@ azov_area = { #4
 }
 
 crimea_area = { #4
-	284 2447
+    2447
 }
 
 white_ruthenia_area = { #3
@@ -975,7 +990,7 @@ ural_area = { #5
 }
 
 pomor_area = { #4
-	313 1776 1958 4258
+	313 1958 4258
 }
 
 arkhangelsk_area = { #4
@@ -1056,7 +1071,7 @@ mittelmark_area = { # 3
 }
 
 vorpommern_area = { #3
-	47 2993 
+	47 2993 2964
 }
 
 
@@ -1115,7 +1130,7 @@ braunschweig_area = { #3
 }
 
 weser_area = { #3
-	54 55 1874
+	54 55 1874 52
 }
 
 holstein_area = { #3

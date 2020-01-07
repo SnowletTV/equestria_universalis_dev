@@ -65,6 +65,10 @@ northern_coast_region = {
 		liftauf_area
 		cubria_area
 		morker_area
+		coastal_arcturia_area
+		inner_arcturia_area
+		the_passage_area
+		magehold_area
 	}
 }
 
