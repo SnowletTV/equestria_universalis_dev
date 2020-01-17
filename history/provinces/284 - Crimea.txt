@@ -1,0 +1,12 @@
+owner = MST
+controller = MST
+culture = whitetailer
+religion = maarite
+add_core = MST
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = western
