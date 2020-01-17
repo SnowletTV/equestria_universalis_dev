@@ -1,10 +1,9 @@
-owner = VED
-controller = VED
-culture = vedinian
+owner = SNC
+controller = SNC
+culture = whitetailer
 religion = old_believer
-add_core = VED
+add_core = SNC
 hre = no
-capital = "Turhamn"
 base_tax = 1
 base_production = 1
 base_manpower = 1

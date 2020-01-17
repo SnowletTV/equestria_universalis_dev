@@ -1,0 +1,12 @@
+owner = SNC
+controller = SNC
+culture = whitetailer
+religion = maarite
+add_core = SNC
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = western

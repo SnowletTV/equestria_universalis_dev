@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = whitetailer
+religion = old_believer
+capital = 2410
+
+national_focus = ADM
+
+1440.6.20 = {
+	monarch = {
+		name = "Torbjørn"
+		dynasty = "Woodfeller"
+		female = no
+		birth_date = 1392.10.5
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}

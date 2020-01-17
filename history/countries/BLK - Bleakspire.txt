@@ -5,6 +5,7 @@ unit_type = western
 primary_culture = cloudburian
 religion = old_believer
 capital = 375
+fixed_capital = 375
 
 national_focus = MIL
 

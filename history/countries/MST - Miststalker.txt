@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = whitetailer
+religion = old_believer
+capital = 2953
+
+national_focus = MIL
+
+1440.6.20 = {
+	monarch = {
+		name = "Dis"
+		dynasty = "Miststalker"
+		female = yes
+		birth_date = 1410.10.5
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

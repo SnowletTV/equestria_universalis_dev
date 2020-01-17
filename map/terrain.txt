@@ -79,7 +79,7 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9
 		
 		terrain_override = { 
-			1 4145 4367 2752 252 4121 4363 249 2752 23 240 4145
+			1 4145 4367 2752 252 4121 4363 249 2752 23 240 4145 4243
 		}                                      
 	}
 	

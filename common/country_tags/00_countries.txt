@@ -16,6 +16,12 @@ CLD = "countries/Cloudbury.txt"
 WND = "countries/Windford.txt"
 BLL = "countries/Blueland.txt"
 KLB = "countries/Clawbury.txt"
+BRN = "countries/Brantbeak.txt"
+SNC = "countries/Sunstriker.txt"
+MST = "countries/Miststalker.txt"
+CSB = "countries/Cursebearer.txt"
+WDF = "countries/Woodfeller.txt"
+SLK = "countries/Silkhorner.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

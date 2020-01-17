@@ -48,7 +48,9 @@ griffon_religion = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
 		}
-		
+		province = {
+			local_missionary_strength = -0.01
+		}
 		country_as_secondary = {
 			tolerance_own = 1
 			global_unrest = -1
@@ -56,5 +58,34 @@ griffon_religion = {
 		personal_deity = yes
 		misguided_heretic = yes
 		heretic = { TRINITARIAN MONOTHEIST }
+	}
+	maarite = {
+		color = { 0 32 79 }
+		icon = 3
+		allowed_conversion = {
+			archonate
+		}
+		on_convert = {
+				change_religion = archonate
+				add_prestige = -100	
+				add_country_modifier = {
+						name = "conversion_zeal"
+						duration = 3650
+				}
+		}
+		country = {
+			diplomatic_reputation = -3
+			manpower_recovery_speed = 0.2
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			diplomatic_reputation = -1
+			manpower_recovery_speed = 0.1
+		}
+		doom = yes
+		declare_war_in_regency = yes
+		heretic = { QUADITARIAN DREAMWALKER MERCIFUL }
 	}
 }

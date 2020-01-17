@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = whitetailer
+religion = maarite
+capital = 1961
+
+national_focus = MIL
+
+1440.6.20 = {
+	monarch = {
+		name = "Sigurd"
+		dynasty = "Cursebearer"
+		female = no
+		birth_date = 1402.10.5
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}

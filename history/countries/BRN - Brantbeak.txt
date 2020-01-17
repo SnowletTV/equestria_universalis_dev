@@ -4,19 +4,20 @@ government_rank = 1
 technology_group = western
 unit_type = western
 primary_culture = cloudburian
-religion = old_believer
-capital = 4
+religion = archonate
+capital = 1940
+fixed_capital = 1940
 
 national_focus = ADM
 
 1440.6.20 = {
 	monarch = {
-		name = "Karolina"
-		dynasty = "Blåhale"
-		female = yes
-		birth_date = 1398.10.5
+		name = "Vilfred"
+		dynasty = "Stærkpote"
+		female = no
+		birth_date = 1381.10.5
 		adm = 3
-		dip = 2
+		dip = 1
 		mil = 2
 	}
 }
