@@ -42,6 +42,7 @@ north_griffon = {
 		}
 	}
 	cloudburian = {
+		primary = CLD
 		male_names = {
 			Anders Andrew Anund Asger Balder Benedikt Benedict Bjørn Beorn Bo Christopher Edvard Edward 
 			Einar Ernest Fredrik Frederick Frej Glum Gorm Gotfred Godfrey Gregers Gregory Grim Hårik 
@@ -280,6 +281,18 @@ riverpony_group = {
 		}
 		female_names = { 
 			Flower
+		}
+	}
+}
+northpony_group = {
+	graphical_culture = northamericagfx
+	northpony = {
+		
+		male_names = {
+			Water
+		}
+		female_names = { 
+			River
 		}
 	}
 }

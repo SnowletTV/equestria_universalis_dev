@@ -22,6 +22,7 @@ MST = "countries/Miststalker.txt"
 CSB = "countries/Cursebearer.txt"
 WDF = "countries/Woodfeller.txt"
 SLK = "countries/Silkhorner.txt"
+SKY = "countries/Skynavia.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

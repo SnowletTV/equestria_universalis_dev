@@ -1,7 +1,6 @@
 griffon_religion = {
 	can_form_personal_unions = yes
 	center_of_religion = 4128 # Griffonstone
-	
 	crusade_name = CRUSADE
 	
 	archonate = {
@@ -87,5 +86,25 @@ griffon_religion = {
 		doom = yes
 		declare_war_in_regency = yes
 		heretic = { QUADITARIAN DREAMWALKER MERCIFUL }
+	}
+}
+pony_religion = {
+	defender_of_faith = yes
+	pony_animism = {
+		color = { 127 0 0 }
+		icon = 11
+		country = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		country_as_secondary = {
+			tolerance_heathen = 1
+			global_unrest = -1
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		heretic = { BLOODLETTERS }
 	}
 }
