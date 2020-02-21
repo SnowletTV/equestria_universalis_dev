@@ -1,20 +1,19 @@
 government = tribal
-add_government_reform = tribal_despotism
+add_government_reform = tribal_federation 
 government_rank = 1
 primary_culture = northpony
 religion = pony_animism
 technology_group = north_american
-capital = 17
-
+capital = 21
 
 1440.6.20 = {
 	monarch = {
-		name = "Spruce"
-		dynasty = "Swamphoof"
-		birth_date = 1397.10.5
-		adm = 1
+		name = "Frost"
+		dynasty = "Whitewood"
+		birth_date = 1394.10.5
+		adm = 2
 		dip = 3
-		mil = 4
+		mil = 1
 		female = yes
 	}
 }

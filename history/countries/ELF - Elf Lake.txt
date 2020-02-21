@@ -4,17 +4,15 @@ government_rank = 1
 primary_culture = northpony
 religion = pony_animism
 technology_group = north_american
-capital = 17
-
+capital = 4114
 
 1440.6.20 = {
 	monarch = {
-		name = "Spruce"
-		dynasty = "Swamphoof"
-		birth_date = 1397.10.5
-		adm = 1
-		dip = 3
-		mil = 4
-		female = yes
+		name = "Crystal"
+		dynasty = "Spring"
+		birth_date = 1412.10.5
+		adm = 3
+		dip = 5
+		mil = 1
 	}
 }

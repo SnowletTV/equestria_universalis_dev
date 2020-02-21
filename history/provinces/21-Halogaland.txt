@@ -1,0 +1,12 @@
+owner = WHD
+controller = WHD
+culture = northpony
+religion = pony_animism
+add_core = WHD
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = north_american

@@ -23,6 +23,11 @@ CSB = "countries/Cursebearer.txt"
 WDF = "countries/Woodfeller.txt"
 SLK = "countries/Silkhorner.txt"
 SKY = "countries/Skynavia.txt"
+SNF = "countries/Snowflake.txt"
+WHD = "countries/Whitewood.txt"
+PNE = "countries/Pinegrove.txt"
+ICT = "countries/Icetail.txt"
+ELF = "countries/Elf_Lake.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
