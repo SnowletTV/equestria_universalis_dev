@@ -1,6 +1,6 @@
 boreas =
 {
-	prestige = 0.5
+	monarch_admin_power = 1
 	global_tax_modifier = 0.1
 	
 	allow = { 
@@ -15,7 +15,7 @@ boreas =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = ai_militarist
+			personality = ai_capitalist
 		}	
 		modifier = {
 			factor = 0.5
@@ -25,7 +25,7 @@ boreas =
 }
 eyr =
 {
-	global_manpower_modifier = 0.1
+	monarch_diplomatic_power = 1
 	local_development_cost = -0.1
 	
 	allow = { 
@@ -40,7 +40,7 @@ eyr =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = ai_balanced
+			personality = ai_diplomat
 		}	
 		modifier = {
 			factor = 0.5
@@ -50,7 +50,7 @@ eyr =
 }
 arcturius =
 {
-	leader_land_shock = 1
+	monarch_military_power = 1
 	discipline = 0.05
 	
 	allow = { 
@@ -63,18 +63,6 @@ arcturius =
 	
 	ai_will_do = {
 		factor = 1
-		modifier = {
-			factor = 2
-			NOT = { num_of_cities = 5 }
-		}
-		modifier = {
-			factor = 2
-			NOT = { num_of_cities = 10 }
-		}
-		modifier = {
-			factor = 0.5
-			num_of_cities = 30
-		}
 		modifier = {
 			factor = 2
 			personality = ai_militarist
@@ -107,7 +95,7 @@ wise_lady =
 		factor = 1
 		modifier = {
 			factor = 2
-			personality = ai_diplomat
+			personality = ai_balanced
 		}	
 		modifier = {
 			factor = 0.5
