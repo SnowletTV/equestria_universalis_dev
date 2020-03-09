@@ -397,9 +397,43 @@ the_passage_area = {
 magehold_area = {
     3 31 25
 }
+
+########################################
+# Hill Ponies				 		   #
+########################################
+
+watertown_area = {
+    1842 37 274 34
+}
+
+north_farbrook_area = {
+    1834 33 309 313
+}
+
+farbrook_area = {
+    4258 2754 1955 306
+}
+
+firtrees_falls_area = {
+    311 310 4148
+}
+
+bonedrift_area = {
+    1752 4260 4261 1958
+}
+
+dreamleaf_area = {
+    1959 4243 4117
+}
+
+coldmouth_area = {
+    1956 4254 4259
+}
+
 ########################################
 # Herzland					 		   #
 ########################################
+
 aiwle_area = {
 	58 62 59 1759
 }
@@ -444,7 +478,7 @@ reitscheid_area = {
 }
 
 strawberry_area {
-	 9 4163 4166
+	9 4163 4166
 }
 
 winterbell_area {
@@ -582,7 +616,7 @@ castille_area = { #3
 }
 
 toledo_area = { #5
-	219 221 2751 2754 4547
+	219 221 2751 4547
 }
 
 asturias_area = { #4
@@ -767,14 +801,6 @@ laponia_area = { #3
 	 1777 4151
 }
 
-karelia_area = { #4
-	 33 34 
-}
-
-north_karelia = { #3
-	 309 
-}
-
 northern_norway = { #3
      
 }
@@ -801,14 +827,6 @@ greenland_area = { #2
 ########################################
 # Eastern Europe    			 	   #
 ########################################
-
-estonia_ingria_area = { #3
-	 1834 1842
-}
-
-livonia_area = { #4
-	37
-}
 
 curonia_area = { #3
 	1935
@@ -926,15 +944,15 @@ vladimir_area = { #3
 }
 
 yaroslavl_area = { #4
-	308 1753 4117 4250
+	308 1753 4250
 }
 
 tver_area = { #5
-	294 1752 4243 4248 4249 
+	294 4248 4249 
 }
 
 suzdal_area = { #3
-	1754 1956 4254
+	1754
 }
 
 smolensk_area = { #4
@@ -946,11 +964,11 @@ oka_area = { #3
 }
 
 novgorod_area = { #5
-	310 311 1959 2749 4260
+	2749
 }
 
 pskov_area = { #4
-	274 275  4148
+    275
 }
 
 vologda_area = { #3
@@ -958,7 +976,7 @@ vologda_area = { #3
 }
 
 beloozero_area = { #3
-	312 4259 4261
+	312
 }
 
 astrakhan_area = { #5
@@ -989,12 +1007,8 @@ ural_area = { #5
 	1080 1078 1780 2427 2441 
 }
 
-pomor_area = { #4
-	313 1958 4258
-}
-
 arkhangelsk_area = { #4
-	1955 4122 4256 4257
+	4122 4256 4257
 }
 
 bashkiria_area = { #5
@@ -1006,7 +1020,7 @@ volga_area = { #3
 }
 
 galich_area = { #4
-	306 1079 1083 1957
+	1079 1083 1957
 }
 
 kama_area = { #4

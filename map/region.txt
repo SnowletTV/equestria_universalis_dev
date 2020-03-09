@@ -72,8 +72,20 @@ northern_coast_region = {
 	}
 }
 
+hill_ponies_region = {
+    areas = {
+	    firtrees_falls_area
+		bonedrift_area
+	    dreamleaf_area
+	    coldmouth_area
+		farbrook_area
+		north_farbrook_area
+		watertown_area
+	}
+}
+
 ########################################
-# OBSOLEAT                            #
+# OBSOLEAT                             #
 ########################################
 
 france_region = {

@@ -5,6 +5,7 @@ northern_griffonia_superregion = {
 	herzland_region
 	cloudbury_region
 	northern_coast_region
+	hill_ponies_region
 }
 
 southern_griffonia_superregion = {
