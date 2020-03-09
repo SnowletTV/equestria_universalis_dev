@@ -28,6 +28,8 @@ WHD = "countries/Whitewood.txt"
 PNE = "countries/Pinegrove.txt"
 ICT = "countries/Icetail.txt"
 ELF = "countries/Elf_Lake.txt"
+VIN = "countries/Vinnin.txt"
+INT = "countries/Interriver.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
