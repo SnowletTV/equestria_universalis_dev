@@ -181,6 +181,31 @@
  zwergenschwanz_area_name:0 "Zwergenschwanz"
  zwergenschwanz_area_adj:0 "Zwergenschwanzer"
 
+ #Crownlands
+ zwischenrivier_area:0 "Zwischenrivier"
+ zwischenrivier_area_name:0 "Zwischenrivier"
+ zwischenrivier_area_adj:0 "Zwizchenrivierer"
+ hellheim_area:0 "Hellheim"
+ hellheim_area_name:0 "Hellheim"
+ hellheim_area_adj:0 "Hellheimer"
+ crona_area:0 "Crona"
+ crona_area_name:0 "Crona"
+ crona_area_adj:0 "Cronian"
+ kronburgerland_area:0 "Kronbürgerland"
+ kronburgerland_area_name:0 "Kronbürgerland"
+ kronburgerland_area_adj:0 "Kronbürgerlandian"
+
+ #Yale
+ yale_proper_area:0 "Yale Proper"
+ yale_proper_area_name:0 "Yale Proper"
+ yale_proper_area_adj:0 "Yalish"
+ geburtsort_area:0 "Geburtsort"
+ geburtsort_area_name:0 "Geburtsort"
+ geburtsort_area_adj:0 "Geburtorter"
+ grunmark_area:0 "Grünmark"
+ grunmark_area_name:0 "Grünmark"
+ grunmark_area_adj:0 "Grünmarker"
+
  herzland_region:0 "Herzland"
  herzland_region_name:0 "Herzland"
  herzland_region_adj:0 "Herzlander"

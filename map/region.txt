@@ -40,6 +40,13 @@ herzland_region = {
 		winterbell_area
 		osnabeak_area
 		zwergenschwanz_area
+		zwischenrivier_area
+		hellheim_area
+		crona_area
+		kronburgerland_area
+		yale_proper_area
+		geburtsort_area
+		grunmark_area
 	}
 }
 
