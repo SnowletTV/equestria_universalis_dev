@@ -520,6 +520,45 @@ geburtsort_area {
 grunmark_area {
 	153 155 157 1952 4127
 }
+
+greifenmarschen_area {
+	40 234 239 241 271 1770 
+}
+
+rabenseen_area {
+	206 257 258 303 1939 4525
+}
+
+tannenschatten_area {
+	294 4248 4249 
+}
+
+bronzberg_area {
+	275 276 1963 4242 4537
+}
+
+katerin_area {
+	154 162 1318 1772 4529
+}
+
+einfoort_area {
+	168 265 4237
+}
+strassmark_area {
+	2406 2960 4236 
+}
+
+klingmuhl_area {
+	1856 1974 2195 2208
+}
+
+engelklau_area {
+	1756 2198 4306 
+}
+
+scheisswald_area {
+	282 425 2405 
+}
 ########################################
 # France					 		   #
 ########################################
@@ -531,7 +570,7 @@ brittany_area = { #5
 }
 
 normandy_area = { #4
-	 168 1879 4385
+	  1879 4385
 }
 
 provence_area = { #3
@@ -651,7 +690,7 @@ asturias_area = { #4
 }
 
 galicia_area = { #4
-	206 4554 4555 4558
+	 4554 4555 4558
 }
 
 baleares_area = {
@@ -764,7 +803,7 @@ lowlands_area = { #3
 }
 
 wales_area = { #4
-	241 4366 4369
+	 4366 4369
 }
 
 scottish_marches_area = { #4
@@ -775,16 +814,13 @@ yorkshire_area = { #3
 
 }
 
-west_midlands_area = { #5
-	239
-}
 
 east_midlands_area = { #3
 	
 }
 
 wessex_area = { #5
-	233 234 4130 4373 4374
+	233  4130 4373 4374
 }
 
 east_anglia_area = { #3
@@ -860,7 +896,7 @@ curonia_area = { #3
 }
 
 east_prussia_area = { #4
-	40  767 2958
+	 767 2958
 }
 
 west_prussia_area = { #4 (South West Prussia)
@@ -871,9 +907,6 @@ wielkopolska_area = { #5
      255 
 }
 
-malopolska_area = { #5
-	  2960
-}
 
 red_ruthenia_area = { #5 
 	261 2424 2961 4541
@@ -888,27 +921,15 @@ volhynia_area = { # 4
 }
 
 pripyat_area = { #4
-	  1941 4537 4545 4543
+	  1941 4545 4543
 }
 
 
-
-mazovia_area = { #4
-	 257   4525
-}
-
-central_poland_area = {
-	258 1939  
-}
 
 sandomierz_area = {
 	 2959    
 }
 
-
-samogitia_area = { #4
-	 271   
-}
 
 
 west_dniepr_area = { #4 Right Bank Ukraine
@@ -927,9 +948,6 @@ sloboda_ukraine_area = { #4
 	 298 299 2408
 }
 
-yedisan_area = { #3
-	282 1974 2406
-}
 
 zaporizhia_area = { #3
 	283 2411 2412
@@ -948,7 +966,7 @@ white_ruthenia_area = { #3
 }
 
 minsk_area = { #4
-	276 4115 4242 4544
+	 4115  4544
 }
 
 #Opolye
@@ -969,9 +987,6 @@ yaroslavl_area = { #4
 	308 1753 4250
 }
 
-tver_area = { #5
-	294 4248 4249 
-}
 
 suzdal_area = { #3
 	1754
@@ -987,10 +1002,6 @@ oka_area = { #3
 
 novgorod_area = { #5
 	2749
-}
-
-pskov_area = { #4
-    275
 }
 
 vologda_area = { #3
@@ -1054,7 +1065,7 @@ tambov_area = { #3
 }
 
 saratov_area = { #3
-	303 2418 2419
+	 2418 2419
 }
 
 ########################################
@@ -1066,15 +1077,11 @@ silesia_area = { #4
 }
 
 bohemia_area = { #5
-	265 266   4237
+	 266  
 }
 
 erzgebirge_area = { #3
 	267  2967
-}
-
-south_saxony_area = { #3
-	59 
 }
 
 upper_bavaria_area = { #3
@@ -1117,7 +1124,7 @@ tirol_area = { #3
 
 austria_proper_area = { #3
 	color = { 213 40 40 }
-	133 134 1770
+	133 134 
 }
 
 inner_austria_area = { #3
@@ -1210,7 +1217,7 @@ wallachia_area = { #5
 }
 
 moldavia_area = { #5
-	268 1756 2405 4529 4530
+	268    4530
 }
 
 transylvania_area = { #4 #Northern Transylvania
@@ -1221,9 +1228,6 @@ southern_transylvania_area = { #3
 	156 1951 4128
 }
 
-slovakia_area = { #5
-	154 162 1318 1772 4236
-}
 
 serbia_area = { #4
 	141 3000 4176 4239
@@ -1264,7 +1268,7 @@ transdanubia_area = { #5
 ########################################
 
 imereti_area = { #3
-	422 462 1856
+	422 462 
 }
 
 samtskhe_area = { #3
@@ -1285,11 +1289,11 @@ shirvan_area = { #5 #Northern Azerbaijan
 }
 
 circassia_area = { #4
-	2201 2195
+	2201 
 }
 
 dagestan_area = { #5
-	425 2198 2199 2208 4306
+	  2199 
 }
 
 
@@ -1310,12 +1314,12 @@ hudavendigar_area = { #3
 }
 
 germiyan_area = { #4
-	color = { 234 145 65 }
+	color = {  145 65 }
 	322 1848 4308 4311
 }
 
 aydin_area = { #5
-	color = { 239 70 86 }
+	color = {  70 86 }
 	318 319 2297 2298 4309
 }
 
@@ -2716,7 +2720,7 @@ irkutsk_area = { #5
 }
 
 perm_area = { #5
-	1077 1755 1963 1964 4129
+	1077 1755  1964 4129
 }
 
 balchasj_area = { #5

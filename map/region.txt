@@ -47,6 +47,16 @@ herzland_region = {
 		yale_proper_area
 		geburtsort_area
 		grunmark_area
+		greifenmarschen_area
+		rabenseen_area
+		tannenschatten_area
+		bronzberg_area
+		katerin_area
+		strassmark_area
+		einfoort_area
+		klingmuhl_area
+		scheisswald_area
+		engelklau_area
 	}
 }
 

@@ -159,13 +159,16 @@
  reitscheid_area_name:0 "Reitscheid"
  reitscheid_area_adj:0 "Reitscheider"
 
- #Romau
+ #Romau and Greifenmarschen
  romau_area:0 "Romau"
  romau_area_name:0 "Romau"
  romau_area_adj:0 "Romauan"
  thurwingen_rima_area:0 "Thurwingen-Rima"
  thurwingen_rima_area_name:0 "Thurwingen-Rima"
  thurwingen_rima_area_adj:0 "Thurwingen-Riman"
+ greifenmarschen_area:0 "Greifenmarschen"
+ greifenmarschen_area_name:0 "Greifenmarschen"
+ greifenmarschen_area_adj:0 "Greifenmarsian"
 
  #Strawberry
  strawberry_area:0 "Strawberry"
@@ -205,6 +208,37 @@
  grunmark_area:0 "Grünmark"
  grunmark_area_name:0 "Grünmark"
  grunmark_area_adj:0 "Grünmarker"
+
+ #Bronzehill
+ rabenseen_area:0 "Rabenseen"
+ rabenseen_area_name:0 "Rabenseen"
+ rabenseen_area_adj:0 "Rabenseeër"
+ tannenschatten_area:0 "Tannenschatten"
+ tannenschatten_area_name:0 "Tannenschatten"
+ tannenschatten_area_adj:0 "Tannenschatter"
+ bronzberg_area:0 "Bronzberg"
+ bronzberg_area_name:0 "Bronzberg"
+ bronzberg_area_adj:0 "Bronzberger"
+
+ #Katerin and Angriver
+ katerin_area:0 "Katerin"
+ katerin_area_name:0 "Katerin"
+ katerin_area_adj:0 "Katerinian"
+ strassmark_area:0 "Straßmark"
+ strassmark_area_name:0 "Straßmark"
+ strassmark_area_adj:0 "Straßmarker"
+ einfoort_area:0 "Einfoort"
+ einfoort_area_name:0 "Einfoort"
+ einfoort_area_adj:0 "Einfoorter"
+ klingmuhl_area:0 "Klingmühl"
+ klingmuhl_area_name:0 "Klingmühl"
+ klingmuhl_area_adj:0 "Klingmühler"
+ scheisswald_area:0 "Scheißwald"
+ scheisswald_area_name:0 "Scheißwald"
+ scheisswald_area_adj:0 "Scheißwalder"
+ engelklau_area:0 "Engelklau"
+ engelklau_area_name:0 "Engelklau"
+ engelklau_area_adj:0 "Engelklauer"
 
  herzland_region:0 "Herzland"
  herzland_region_name:0 "Herzland"
