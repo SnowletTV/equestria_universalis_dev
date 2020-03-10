@@ -23,7 +23,7 @@ vedina_region = {
 	}
 }
 
-herzland_region = {
+western_herzland_region = {
 	areas = {
 		aiwle_area
 		rottendestaat_area
@@ -34,12 +34,19 @@ herzland_region = {
 		groote_vlackte_area
 		luxwingburg_area
 		reitscheid_area
-		romau_area
-		thurwingen_rima_area
 		strawberry_area
 		winterbell_area
 		osnabeak_area
 		zwergenschwanz_area
+		greifenmarschen_area
+		thurwingen_rima_area
+		
+	}
+}
+
+eastern_herzland_region = {
+	areas = {
+		romau_area
 		zwischenrivier_area
 		hellheim_area
 		crona_area
@@ -47,7 +54,6 @@ herzland_region = {
 		yale_proper_area
 		geburtsort_area
 		grunmark_area
-		greifenmarschen_area
 		rabenseen_area
 		tannenschatten_area
 		bronzberg_area

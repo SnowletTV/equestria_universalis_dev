@@ -2,7 +2,8 @@
 
 northern_griffonia_superregion = {
 	vedina_region
-	herzland_region
+	western_herzland_region
+	eastern_herzland_region
 	cloudbury_region
 	northern_coast_region
 	hill_ponies_region
