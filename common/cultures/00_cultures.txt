@@ -29,16 +29,7 @@ north_griffon = {
 			Sophia Thordis Ulvhilde Åsa
 		}
 		dynasty_names = {
-			"Bonde" "Vasa" "Tre Rosor" "Oxenstierna" "Sparre" "Sture" "Tott" "Trolle" "Bielke" "Brahe"
-			"Horn" "Ribbing" "Skytte" "Banér" "Fleming" "Gyllenstierna" "de la Gardie" "Leijonhufvud" 
-			"Natt och Dag" "Grip" "Stenbock" "Bure" "Drake" "Hand" "Burensköld"
-			"Böllja" "Cruus" "Geete" "Grubbenhielm" "Soop" "Ekeblad" "Svinhufvud"
-			"Hård" "Forstena" "Kurck" "Eka" "Hjort" "Jägerhorn" "Lilliehöök"
-			"Porse" "Palme" Gumsehuvud
-			"Bååt" "Ulv" "Sjöblad" "Läma" "Posse" "Rosenstråle" "Thott" "Bagge"
-			"Bese" "Gädda" "Hatt" "Marsvin" "Oxhufvud" "Stake" "Tre Rutor" "Hästesko"
-			"Ulfsax" "Tre Sjöblad" "Bratt" "Munk" "Eketrä" "Gera"
-			"Gylta" "Lillie" "Puke" "Slatte"  "Stiernkors" "Fincke" "Dufva" "Cronstedt"
+			Wingstrom
 		}
 	}
 	cloudburian = {
@@ -66,16 +57,7 @@ north_griffon = {
 			Sanna Signe Sigrid Silje Sofie Sophia Svanhild Thyra Tora Thora Thordis Åse Åsa
 		}
 		dynasty_names = {
-			"Hvide" "Galen" "Due" "Saltensee" "Urup" "Neb" "Brahe" "Gøye" "Trolle" "Rantzau"
-			"Friis" "Gyllenstierna" #Gyldenstierne
-			"Bille" "Adeler" "Arenstorff" "Brockenhuus"
-			"Beck" "Brock" "Grubbe" "Holck" "Huitfeldt" "Juel" "Kaas" "Krabbe"
-			"Lindenov" "Lykke" "Marsvin" "Mule" "Munk" "Oxe" "Reedtz" "Rodsteen"
-			"Rosenkrantz" "Skeel" "Skram" "Urne" "Vind" "Ahlefeldt"
-			"Frille" "Rønnow"
-			# CKII
-			"Porse" "Glysing" "Banner" "Thott" "Ulfstand" "Grøn" "Daa"
-			"Reventlow" "Juul" "Ulfeldt" "Bang"
+			Plumenjar
 		}
 	}
 	whitetailer = {
@@ -102,17 +84,23 @@ north_griffon = {
 			Sanna Signe Sigrid Silje Sofie Sophia Svanhild Thyra Tora Thora Thordis Åse Åsa
 		}
 		dynasty_names = {
-			"Hvide" "Galen" "Due" "Saltensee" "Urup" "Neb" "Brahe" "Gøye" "Trolle" "Rantzau"
-			"Friis" "Gyllenstierna" #Gyldenstierne
-			"Bille" "Adeler" "Arenstorff" "Brockenhuus"
-			"Beck" "Brock" "Grubbe" "Holck" "Huitfeldt" "Juel" "Kaas" "Krabbe"
-			"Lindenov" "Lykke" "Marsvin" "Mule" "Munk" "Oxe" "Reedtz" "Rodsteen"
-			"Rosenkrantz" "Skeel" "Skram" "Urne" "Vind" "Ahlefeldt"
-			"Frille" "Rønnow"
-			# CKII
-			"Porse" "Glysing" "Banner" "Thott" "Ulfstand" "Grøn" "Daa"
-			"Reventlow" "Juul" "Ulfeldt" "Bang"
+			Sunstriker Miststalker Cursebearer Woodfeller Silkhorner Brantbeaker
 		}
+	}
+	hauklandish = {
+		male_names = {
+			Tomas Ulrik
+		}
+		female_names = {
+			Elisabet Gunhild
+		}
+		dynasty_names = {
+			"av Haukland"
+		}
+	}
+	dynasty_names = {
+		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
+		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
 	}
 }
 hertzlander = {
@@ -203,18 +191,7 @@ hertzlander = {
 			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete Margaretha Rosanne Tamara
 		}
 		dynasty_names = {
-			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" "de Friesland"
-			"van Haspinga" "van Limburg" "van Lotharingen"  "von der Mark"
-			"van Leuven" "van Brabant" "van Egmont" "de Reginar" "van Jülich-Hengebach"
-			# CKII
-			"van Loon" "von Geldern" "van Sulzbach" "von Salm"
-			"van Bergh" "van Heinsberg" "van de Veluwe" "De Graeff"
-			"van Brederode" "van Breda" "van Heemskerk" "van Glymes" "van Grimberghe"
-			"van Renesse" "van Wassenaer" "van Bronckhorst"
-			"van Keppel" "Van Voorst tot Voorst" "van Wisch" "van Kamerijk" "Cirksena"
-			"van Diest" "van Montfoort"
-			# Frisian
-			"van Serooskerken"
+			Weijermars
 		}
 	}
 	female_names = {
@@ -250,50 +227,60 @@ hertzlander = {
 		Vera Verena Verona Veronika Victoria Viktoria Walburg Walburga Waldtraud Waldtraut Walpurga Walpurgis Waltraud 
 		Waltraut Wanja Wibke Wiebke Wilhelmina Wilhelmine Wilma Xenia Yasmin Yvonne Zäzilia Zäzilie Zoe
 	}
+	dynasty_names = {
+		Greytalon Mistfeather Stormfeather Raincrest Hellcrest Bronzetail Thundertail Mudbeak Helltalon Duskwing
+		Darkclaw Grimwing Grimclaw Hardbeak Silverplume Beamclaw Stormborn Goldplume Whitefeather Starbill
+	}
 }
 riverpony_group = {
 	graphical_culture = easterngfx
 	riverpony = {
 		primary = RCT
-		
-		male_names = {
-			Water
-		}
-		female_names = { 
-			River
-		}
 	}
 	lakepony = {
 		primary = LCT
-		
-		male_names = {
-			Lake
-		}
-		female_names = { 
-			Flower
+		dynasty_names = {
+			Sword Spear Snow
 		}
 	}
 	nimbusian = {
 		primary = NIM
 		
 		male_names = {
-			Flash
+			"Diatton Asteras" "Marmarinos Kionas" "Iodes Anemos" "Hloro Fyllo" "Synnefothraustes" "Aeonios Pagetos" "Vasilikos Strovilos" "Therinos Helios" "Nyhterinos Tromos" "Mystikos Kodikas" "Mysterios Kometes" "Pneumatikos Fruros" "Apythmenos Okeanos" "Philosophike Lithos" "Aerino Phasma"
 		}
 		female_names = { 
-			Flower
+			"Asimi Mageia" "Kyane Thalassa" "Kerine Omorfia" "Pikrodaphne" "Earine Isemeria"
 		}
+		dynasty_names = {
+			
+		}
+	}
+	male_names = {
+		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+	}
+	female_names = {
+		Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+	}
+	dynasty_names = {
+		Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
 	}
 }
 northpony_group = {
 	graphical_culture = northamericagfx
 	northpony = {
-		
-		male_names = {
-			Water
+		dynasty_names = {
+			Snowflake Icetail Whitewood Pinegrove
 		}
-		female_names = { 
-			River
-		}
+	}
+	male_names = {
+		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
+	}
+	female_names = {
+		Cherry Amber Scarlet Twilight Starry Ebony Dew Emerald Mythic Lucky Cinnamon
+	}
+	dynasty_names = {
+		Wings Fashion Colt Cinnamon Twirl Scarlet Harmony Little Snowflake Bubblegum Mythic Star Amethyst Lilly Solar Wings Emerald Fashion Dew Smooch
 	}
 }
 diamond_dog = {
@@ -302,10 +289,17 @@ diamond_dog = {
 		primary = DMT
 		
 		male_names = {
-			Snuffles
+			Rover Fido Spot Barnaby Bernard Nipper Paddington Banjo Ace Beasley Ben Bingo Blair Buddy Buck Cosmo Lady Max
+			Clifford Pal Pete Moonie Skippy Terry Zip Beauregard Beejay Blaze Buck Happy Bullet Leo Shep Tiger Theo Bobbie Digger
+			Smoky Spike
 		}
 		female_names = { 
-			Rosey
+			Molly Rosey Bella Lassy Laika Blondi
+		}
+		dynasty_names = {
+			"Goodboy" "the Old" "the Brown" "the Boneless" "Swift" "of Diamond Mountain" "of Kaza-ar-Bark" "of Var-Woolth" "of Barkara-Var" "of Bar-Underdog"
+			"of Azar-Fetch" "of Azar-Gutboi" "of Kara-Hound" "of Khew-Gazar" "of High-Paw" "of Broken-Bone" "the Rich" "the Fat" "the Harsh"
+			"Biter" "the Scared" "the Wild" "the Bloody" "Gemhorder"
 		}
 	}
 }

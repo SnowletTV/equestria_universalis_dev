@@ -6,10 +6,9 @@ NAT = "countries/Natives.txt"
 # Equus
 EQS = "countries/Equestria.txt"
 
-# Griffonia
+# North Griffonia
 VED = "countries/Vedina.txt"
 SKR = "countries/Skyrim.txt"
-KAT = "countries/Katerin.txt"
 BLK = "countries/Bleakspire.txt"
 VNG = "countries/Winghagen.txt"
 CLD = "countries/Cloudbury.txt"
@@ -28,8 +27,12 @@ WHD = "countries/Whitewood.txt"
 PNE = "countries/Pinegrove.txt"
 ICT = "countries/Icetail.txt"
 ELF = "countries/Elf_Lake.txt"
+WNT = "countries/Winterhold.txt"
+
+# Heartlands
 VIN = "countries/Vinnin.txt"
 INT = "countries/Interriver.txt"
+KTR = "countries/Katerin.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

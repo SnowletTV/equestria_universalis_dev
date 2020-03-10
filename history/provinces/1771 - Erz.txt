@@ -1,8 +1,8 @@
-owner = KAT
-controller = KAT
+owner = KTR
+controller = KTR
 culture = griffkingian
-religion = old_believer
-add_core = KAT
+religion = archonate
+add_core = KTR
 hre = no
 base_tax = 1
 base_production = 1

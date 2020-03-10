@@ -1,0 +1,318 @@
+griffon_county = {
+	rank = {
+		1 = COUNTY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = COUNT
+		2 = KING
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = COUNTESS
+		2 = QUEEN	
+		3 = EMPRESS
+	}
+	
+	consort_male  = {
+		1 = COUNT_CONSORT
+		2 = KING_CONSORT
+		3 = EMPEROR_CONSORT
+	}
+	
+	consort_female = {
+		1 = COUNTESS_CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = PRINCE
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = PRINCESS
+		3 = PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = BLL
+		}
+	}
+}
+griffon_barony = {
+	rank = {
+		1 = BARONY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = BARON
+		2 = KING
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = BARONESS
+		2 = QUEEN	
+		3 = EMPRESS
+	}
+	
+	consort_male  = {
+		1 = BARON_CONSORT
+		2 = KING_CONSORT
+		3 = EMPEROR_CONSORT
+	}
+	
+	consort_female = {
+		1 = BARONESS_CONSORT
+		2 = QUEEN_CONSORT
+		3 = EMPRESS_CONSORT
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = PRINCE
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = PRINCESS
+		3 = PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		OR = {
+			tag = VIN
+			tag = WNT
+		}
+	}
+}
+march_gov_name = {
+	rank = {
+		1 = MARCH
+		2 = VICEROYALTY
+		3 = EMPIRE
+	}
+	
+	ruler_male = {
+		1 = MARGRAVE
+		2 = VICEROY
+		3 = EMPEROR
+	}
+
+	ruler_female = {
+		1 = MARGRAVINE
+		2 = VICEREINE	
+		3 = EMPRESS
+	}
+	
+	consort_male = {
+		1 = MARGRAVE_CONSORT
+		2 = VICEROY_CONSORT
+		3 = EMPEROR_CONSORT
+	}
+
+	consort_female = {
+		1 = MARGRAVINE
+		2 = VICEREINE
+		3 = EMPRESS
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = PRINCE
+		3 = PRINCE
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = PRINCESS
+		3 = PRINCESS
+	}
+	
+	trigger = {
+		government = monarchy
+		is_march = yes
+	}
+}
+
+###Vanilla ones that don't use vanilla cultures/tags/religions etc.
+pirate_government = {
+	rank = {
+		1 = PIRATE_REPUBLIC
+		2 = PIRATE_CONFEDERACY
+		3 = GRAND_PIRATE_CONFEDERACY
+	}
+
+	ruler_male = {
+		1 = CAPTAIN
+		2 = GRAND_CAPTAIN
+		3 = GRAND_ADMIRAL
+	}
+
+	ruler_female = {
+		1 = CAPTAIN_fem
+		2 = GRAND_CAPTAIN_fem
+		3 = ADMIRAL_fem
+	}
+
+	trigger = {
+		has_reform = pirate_republic_reform
+		NOT = { has_reform = pirate_king_reform }
+	}
+}
+
+pirate_kingdom = {
+	rank = {
+		1 = PIRATE_PRINCIPALITY
+		2 = PIRATE_KINGDOM
+		3 = PIRATE_EMPIRE
+	}
+
+	ruler_male = {
+		1 = PIRATE_PRINCE
+		2 = PIRATE_KING
+		3 = PIRATE_EMPEROR
+	}
+
+	ruler_female = {
+		1 = PIRATE_PRINCESS
+		2 = PIRATE_QUEEN
+		3 = PIRATE_EMPRESS
+	}
+
+	trigger = {
+		has_reform = pirate_king_reform
+	}
+}
+celestial_parliament = {
+	rank = {
+		3 = PARLIAMENT_OF_HEAVEN
+	}
+	
+	ruler_male = {
+		3 = EMPEROR
+	}
+	
+	ruler_female = {
+		3 = EMPRESS
+	}
+	
+	consort_male = {
+		3 = PRINCE_CONSORT
+	}
+
+	consort_female = {
+		3 = EMPRESS_CONSORT
+	}
+	
+	heir_male = {
+		3 = HEIR
+	}
+
+	heir_female = {
+		3 = HEIR_fem
+	}
+	
+	trigger = {
+		has_reform = celestial_empire
+		has_reform = parliamentary_reform
+	}
+}
+revolutionary_peasant_republic = {
+	rank = {
+		3 = REVOLUTIONARY_PEASANT_REPUBLIC
+	}
+
+	ruler_male = {
+		3 = GREAT_CONSUL
+	}
+
+	ruler_female = {
+		3 = GREAT_CONSULESS
+	}
+
+	trigger = {
+		has_reform = revolutionary_republic_reform
+		have_had_reform = peasants_republic
+	}
+}
+russian_monarchy = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = GRAND_PRINCIPALITY
+		3 = TSARDOM
+	}
+
+	ruler_male = {
+		1 = KNIAZ
+		2 = GREAT_KNIAZ
+		3 = TSAR
+	}
+
+	ruler_female = {
+		1 = KNIAGINIA
+		2 = GREAT_KNIAGINIA
+		3 = TSARITSA
+	}
+
+	trigger = {
+		OR = {
+			has_reform = principality
+			has_reform = tsardom
+		}
+	}
+}
+gov_free_city = {
+	rank = {
+		1 = FREE_CITY
+	}
+
+	ruler_male = {
+		1 = MAYOR
+	}
+
+	ruler_female = {
+		1 = MAYORESS
+	}
+
+	trigger = {
+		has_reform = free_city
+	}
+}
+zaporozhian_republic = {
+	rank = {
+		1 = HETMANATE
+		2 = GRAND_HETMANATE
+		3 = GREAT_HETMANATE
+	}
+
+	ruler_male = {
+		1 = ATAMAN
+		2 = HETMAN
+		3 = GREAT_HETMAN
+	}
+
+	ruler_female = {
+		1 = ATAMAN_fem
+		2 = HETMAN_fem
+		3 = GREAT_HETMAN_fem
+	}
+
+	trigger = {
+		government = republic
+		has_reform = cossacks_reform
+	}
+}
