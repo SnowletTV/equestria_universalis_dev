@@ -40,7 +40,9 @@ western_herzland_region = {
 		zwergenschwanz_area
 		greifenmarschen_area
 		thurwingen_rima_area
-		
+		skyfall_area
+		grifftonia_area
+		vleugelland_area
 	}
 }
 
@@ -104,6 +106,16 @@ hill_ponies_region = {
 		farbrook_area
 		north_farbrook_area
 		watertown_area
+	}
+}
+
+verenia_region = {
+	areas = {
+		verenia_area
+		eyrie_area
+		avian_area
+		erie_area
+		balfeuer_area
 	}
 }
 

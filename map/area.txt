@@ -559,6 +559,41 @@ engelklau_area {
 scheisswald_area {
 	282 425 2405 
 }
+
+skyfall_area {
+	45 46 47 1857
+}
+
+grifftonia_area {
+	44 51 2993 2996
+}
+
+vleugelland_area {
+	57 1758 2971
+}
+
+########################################
+# Verenia					 		   #
+########################################
+verenia_area {
+	191 192 193 1953 4392 
+}
+
+eyrie_area {
+	72 133 189 1880
+}
+
+avian_area {
+	233 4130 4373 4374
+}
+
+erie_area {
+	64 89 135 182 4125
+}
+
+balfeuer_area {
+	65 87 88 181 1743
+}
 ########################################
 # France					 		   #
 ########################################
@@ -595,7 +630,7 @@ languedoc_area = { #4
 
 bourgogne_area = { #5
 	color = { 144 0 32 }
-	191 192 193 1877 4392
+	 1877 
 }
 
 massif_central_area = { #3
@@ -608,19 +643,16 @@ savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy
 }
 
 lorraine_area = { #3
-	187 188 189
+	187 188 
 }
 
-picardy_area = { #4
-	87 88 89 1743
-}
 
 ile_de_france_area = { #4
-	182 183 185 4388
+	 183 185 4388
 }
 
 champagne_area = { #3
-	181 186 4390
+	 186 4390
 }
 
 loire_area = { #5
@@ -819,9 +851,6 @@ east_midlands_area = { #3
 	
 }
 
-wessex_area = { #5
-	233  4130 4373 4374
-}
 
 east_anglia_area = { #3
 	
@@ -1085,11 +1114,11 @@ erzgebirge_area = { #3
 }
 
 upper_bavaria_area = { #3
-	65 76 2955
+	 76 2955
 }
 
 lower_bavaria_area = { #4
-	64 1757 2956 
+	 1757 2956 
 }
 
 lower_swabia_area = { #3 (incl Ansbach/Schwabishe Hall)
@@ -1109,12 +1138,8 @@ thuringia_area = { #3
 }
 
 
-mittelmark_area = { # 3
-	 51 
-}
-
 vorpommern_area = { #3
-	47 2993 2964
+	  2964
 }
 
 
@@ -1124,7 +1149,7 @@ tirol_area = { #3
 
 austria_proper_area = { #3
 	color = { 213 40 40 }
-	133 134 
+	 134 
 }
 
 inner_austria_area = { #3
@@ -1145,7 +1170,7 @@ romandie_area = { #3
 }
 
 upper_rhineland_area = { #4
-	72 74 75 1880
+	 74 75 
 }
 
 palatinate_area = { #3
@@ -1168,25 +1193,15 @@ hesse_area = { #4
 	81 83 1762 
 }
 
-braunschweig_area = { #3
-	57 1758 2971
-}
-
 weser_area = { #3
 	54 55 1874 52
 }
 
-holstein_area = { #3
-	  
-}
 
 lower_saxony_area = { #3
-	44 53 1857
+	 53 
 }
 
-mecklenburg_area = { #3
-	45 46 2996
-}
 
 ########################################
 # South Eastern Europe 				   #
@@ -1255,12 +1270,12 @@ east_adriatic_coast_area = { #3
 }
 
 alfold_area = { #4
-	 1953 1954 4125
+	  1954 
 }
 
 transdanubia_area = { #5
 	color = { 171 92 22 }
-	135 1864 4126 4240
+	 1864 4126 4240
 }
 
 ########################################
