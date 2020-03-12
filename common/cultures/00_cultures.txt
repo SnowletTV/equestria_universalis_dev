@@ -28,9 +28,6 @@ north_griffon = {
 			Margareta Märta Martha Ragnhild Sara Sarah Sigrid Sofia 
 			Sophia Thordis Ulvhilde Åsa
 		}
-		dynasty_names = {
-			Wingstrom
-		}
 	}
 	cloudburian = {
 		primary = CLD
@@ -56,9 +53,6 @@ north_griffon = {
 			Magdalene Magdalena Maren Margrethe Margaret Maria Martha Ragnfrid Ragnhild Rikissa Runa 
 			Sanna Signe Sigrid Silje Sofie Sophia Svanhild Thyra Tora Thora Thordis Åse Åsa
 		}
-		dynasty_names = {
-			Plumenjar
-		}
 	}
 	whitetailer = {
 		male_names = {
@@ -83,9 +77,6 @@ north_griffon = {
 			Magdalene Magdalena Maren Margrethe Margaret Maria Martha Ragnfrid Ragnhild Rikissa Runa 
 			Sanna Signe Sigrid Silje Sofie Sophia Svanhild Thyra Tora Thora Thordis Åse Åsa
 		}
-		dynasty_names = {
-			Sunstriker Miststalker Cursebearer Woodfeller Silkhorner Brantbeaker
-		}
 	}
 	hauklandish = {
 		male_names = {
@@ -93,9 +84,6 @@ north_griffon = {
 		}
 		female_names = {
 			Elisabet Gunhild
-		}
-		dynasty_names = {
-			"av Haukland"
 		}
 	}
 	dynasty_names = {
@@ -191,9 +179,6 @@ hertzlander = {
 			Sigerda Sophie Sophia Swanhildis Thetburga Tiburge Waltrud
 			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete Margaretha Rosanne Tamara
 		}
-		dynasty_names = {
-			Weijermars
-		}
 	}
 	female_names = {
 		Adele Adelgunde Adelheid Adolfine Agatha Agnes Alexandra Alice Alina Aline Alma Alwina Alwine Amalia Amalie Amanda 
@@ -240,9 +225,6 @@ riverpony_group = {
 	}
 	lakepony = {
 		primary = LCT
-		dynasty_names = {
-			Sword Spear Snow
-		}
 	}
 	nimbusian = {
 		primary = NIM
@@ -270,9 +252,6 @@ riverpony_group = {
 northpony_group = {
 	graphical_culture = northamericagfx
 	northpony = {
-		dynasty_names = {
-			Snowflake Icetail Whitewood Pinegrove
-		}
 	}
 	male_names = {
 		Thunder Cloud Duke Star Mister Brisk Steel Comet Flash Midnight Wild Moonshadow Platinum Rapid Velvet Moonlight
