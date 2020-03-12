@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = griffkingian
+religion = archonate
+capital = 4534
+fixed_capital = 4534
+
+1440.6.20 = {
+	monarch = {
+		name = "Tristan"
+		dynasty = "Berge"
+		female = no
+		birth_date = 1407.10.5
+		adm = 4
+		dip = 1
+		mil = 4
+	}
+}

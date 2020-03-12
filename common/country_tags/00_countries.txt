@@ -33,6 +33,11 @@ WNT = "countries/Winterhold.txt"
 VIN = "countries/Vinnin.txt"
 INT = "countries/Interriver.txt"
 KTR = "countries/Katerin.txt"
+ROT = "countries/Rottendedam.txt"
+FEA = "countries/Feathisia.txt"
+AIW = "countries/Aiwle.txt"
+LXB = "countries/Luxwingburg.txt"
+REI = "countries/Reitscheid.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

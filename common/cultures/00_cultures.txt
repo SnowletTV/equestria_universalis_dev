@@ -156,6 +156,7 @@ hertzlander = {
 		}
 	}
 	featherisian = {
+		primary = FEA
 		male_names = {
 			Adriaen Albrecht Albert Alwin Ambroos Antoon Arnold Arnold Arnulf Arnulf Balderik Barend 
 			Barnaerd Bernard Bartolomeus Bartolomeus

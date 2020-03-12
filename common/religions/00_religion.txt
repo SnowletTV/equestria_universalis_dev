@@ -5,7 +5,7 @@ griffon_religion = {
 	
 	archonate = {
 		color = { 255 140 0 }
-		icon = 1
+		icon = 19
 		allowed_conversion = {
 			old_believer
 		}
@@ -31,7 +31,7 @@ griffon_religion = {
 	}
 	old_believer = {
 		color = { 245 255 133 }
-		icon = 2
+		icon = 21
 		allowed_conversion = {
 			archonate
 		}
@@ -60,7 +60,7 @@ griffon_religion = {
 	}
 	maarite = {
 		color = { 0 32 79 }
-		icon = 3
+		icon = 15
 		allowed_conversion = {
 			archonate
 		}
@@ -92,7 +92,7 @@ pony_religion = {
 	defender_of_faith = yes
 	pony_animism = {
 		color = { 127 0 0 }
-		icon = 11
+		icon = 13
 		country = {
 			tolerance_heathen = 1
 			global_unrest = -1

@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = featherisian
+religion = archonate
+capital = 62
+fixed_capital = 62
+
+1440.6.20 = {
+	monarch = {
+		name = "Florina"
+		dynasty = "van Eimond"
+		female = yes
+		birth_date = 1411.10.5
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}

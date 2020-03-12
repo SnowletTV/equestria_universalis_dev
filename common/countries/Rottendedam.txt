@@ -1,31 +1,33 @@
+#Country Name: Please see filename.
+
 graphical_culture = westerngfx
 
-color = { 255 247 0 }
+color = { 50 122 66 }
 
-revolutionary_colors = { 5  0  5 } #Made up
 
 historical_idea_groups = {
-	maritime_ideas
-	administrative_ideas
-	aristocracy_ideas
-	expansion_ideas
-	naval_ideas 
-	trade_ideas 
+	innovativeness_ideas
+	offensive_ideas
+	diplomatic_ideas
 	quality_ideas
 	economic_ideas
+	trade_ideas
+	defensive_ideas
+	administrative_ideas
 }
 
 historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 	western_men_at_arms
+	swiss_landsknechten
 	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
 	prussian_frederickian
 	prussian_uhlan
+	prussian_drill
 	mixed_order_infantry
 	open_order_cavalry
 	napoleonic_square
@@ -41,7 +43,7 @@ leader_names = {
 }
 
 ship_names = {
-	
+
 }
 
 army_names = {

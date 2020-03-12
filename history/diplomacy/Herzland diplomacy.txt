@@ -1,0 +1,6 @@
+guarantee = {
+	first = ROT
+	second = KLB
+	start_date = 1440.2.10
+	end_date = 1670.1.1
+}

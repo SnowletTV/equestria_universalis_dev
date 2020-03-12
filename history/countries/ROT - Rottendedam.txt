@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = featherisian
+religion = archonate
+capital = 236
+fixed_capital = 236
+
+1440.6.20 = {
+	monarch = {
+		name = "Arista"
+		dynasty = "de Zwart"
+		female = yes
+		birth_date = 1396.10.5
+		adm = 5
+		dip = 4
+		mil = 1
+	}
+}

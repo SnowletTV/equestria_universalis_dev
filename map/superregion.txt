@@ -14,10 +14,6 @@ southern_griffonia_superregion = {
 
 }
 
-eastern_griffonia_superregion = {
-
-}
-
 india_superregion = {
 	bengal_region
 	hindusthan_region

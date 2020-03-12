@@ -1,0 +1,12 @@
+owner = ROT
+controller = ROT
+culture = featherisian
+religion = archonate
+add_core = ROT
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = western

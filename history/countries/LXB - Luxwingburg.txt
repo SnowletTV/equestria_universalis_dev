@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = griffkingian
+religion = archonate
+capital = 2969
+fixed_capital = 2969
+
+1440.6.20 = {
+	monarch = {
+		name = "Salfira"
+		dynasty = "Zilversnavel"
+		female = yes
+		birth_date = 1392.10.5
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

@@ -10,4 +10,7 @@
  COUNTESS:0 "Countess"
  COUNT_CONSORT:0 "Count-Consort"
  COUNTESS_CONSORT:0 "Countess-Consort"
+ DUKE_CONSORT:0 "Duke-Consort"
+ GRAND_DUKE_CONSORT:0 "Grand Duke-Consort"
+ GRAND_DUCHESS_CONSORT:0 "Grand Duchess-Consort"
  HEIR:0 "Heir"
