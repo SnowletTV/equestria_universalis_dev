@@ -119,6 +119,19 @@ verenia_region = {
 	}
 }
 
+griffonstone_region = {
+	areas = {
+		stone_highland_area
+		eincartref_area
+		gale_area
+		griffonstone_area
+		solspitze_area
+		murkbeak_area
+		schwarzhohl_area
+		uberberg_area
+	}
+}
+
 ########################################
 # OBSOLEAT                             #
 ########################################

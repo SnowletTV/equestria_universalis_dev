@@ -11,7 +11,7 @@ northern_griffonia_superregion = {
 }
 
 southern_griffonia_superregion = {
-
+	griffonstone_region
 }
 
 india_superregion = {

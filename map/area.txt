@@ -594,6 +594,42 @@ erie_area {
 balfeuer_area {
 	65 87 88 181 1743
 }
+
+########################################
+# Griffonstone					 	   #
+########################################
+stone_highland_area {
+	165 1869 1870
+}
+
+eincartref_area {
+	1769 2424 1863 4240
+}
+
+gale_area {
+	166 1867 1873
+}
+
+griffonstone_area {
+	161 1951 2998 4128
+}
+
+solspitze_area {
+	156 158 439 443
+}
+
+murkbeak_area {
+	159 2370 2447 4532
+}
+
+schwarzhohl_area {
+	160 2304 4531 4303
+}
+
+uberberg_area {
+	422 424 462
+}
+
 ########################################
 # France					 		   #
 ########################################
@@ -938,7 +974,7 @@ wielkopolska_area = { #5
 
 
 red_ruthenia_area = { #5 
-	261 2424 2961 4541
+	261  2961 4541
 }
 
 podolia_volhynia_area = { #3
@@ -986,9 +1022,6 @@ azov_area = { #4
 	286 2413 2414
 }
 
-crimea_area = { #4
-    2447
-}
 
 white_ruthenia_area = { #3
 	  4246
@@ -1153,20 +1186,18 @@ austria_proper_area = { #3
 }
 
 inner_austria_area = { #3
-	128 132 1863
+	128 132 
 }
 
 carinthia_area = { #3
 	color = { 46 217 110 }
-	129 130 1769
+	129 130 
 }
 
-switzerland_area = { #4
-	166 1869 1870 1873
-}
+
 
 romandie_area = { #3
-	165 1867 1871
+	  1871
 }
 
 upper_rhineland_area = { #4
@@ -1224,24 +1255,16 @@ thrace_area = { #3
 }
 
 bulgaria_area = { #5
-	150 159 1765 2746 2750
+	150  1765 2746 2750
 }
 
-wallachia_area = { #5
-	160 161 2998 4531 4532
-}
+
 
 moldavia_area = { #5
 	268    4530
 }
 
-transylvania_area = { #4 #Northern Transylvania
-	 158 
-}
 
-southern_transylvania_area = { #3
-	156 1951 4128
-}
 
 
 serbia_area = { #4
@@ -1275,19 +1298,16 @@ alfold_area = { #4
 
 transdanubia_area = { #5
 	color = { 171 92 22 }
-	 1864 4126 4240
+	 1864 4126 
 }
 
 ########################################
 # Caucasia 							   #
 ########################################
 
-imereti_area = { #3
-	422 462 
-}
 
 samtskhe_area = { #3
-	2196 2204 4303
+	2196 2204 
 }
 
 kartli_kakheti_area = { #3
@@ -1300,7 +1320,7 @@ armenia_area = { #5
 
 shirvan_area = { #5 #Northern Azerbaijan
 	color = { 225 231 53 }
-	421 424 4299 4305 4340
+	421  4299 4305 4340
 }
 
 circassia_area = { #4
@@ -1348,7 +1368,7 @@ aegean_archipelago_area = { #4
 }
 
 kastamonu_area = { #4
-	325 328 2299 2304
+	325 328 2299 
 }
 
 karaman_area = { #4
@@ -2073,7 +2093,7 @@ termez_area = { #3
 }
 
 khiva_area = { #5
-	440 441 1973 2362 2370
+	440 441 1973 2362 
 }
 
 kabulistan_area = { #5
@@ -2082,7 +2102,7 @@ kabulistan_area = { #5
 }
 
 transcaspia_area = {
-	437 438 439 443 2349
+	437 438   2349
 }
 
 mashhad_area = { #4 - Northern Khorasan
