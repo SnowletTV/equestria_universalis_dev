@@ -303,7 +303,7 @@ vinovia_area = {
 	187 186 4388 183 1879 1877
 }
 skyaluzze_area = {
-	131 4173 129 128
+	131 4173 129
 }
 vanguardino_area = {
 	70 4389 177
@@ -331,6 +331,9 @@ flowena_area = {
 }
 tarrin_area = {
 	1768 1872 68 76 1868 69
+}
+southtarrin_area = {
+	128 1764 2750
 }
 marcon_area = {
 	55 52 2964 97 56
@@ -1136,11 +1139,11 @@ northern_greece_area = { #3 #Northern Greece
 }
 
 thrace_area = { #3
-	149 151 1764
+	149 151
 }
 
 bulgaria_area = { #5
-	150  1765 2746 2750
+	150  1765 2746
 }
 
 
