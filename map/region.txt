@@ -161,6 +161,16 @@ aquileia_region = {
 	}
 }
 
+western_riverlands_region = {	
+	areas = {
+		lauksstrumman_area
+		swarew_area
+		ainaseil_area
+		panaceja_area
+		north_vartai_area
+		south_vartai_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################
