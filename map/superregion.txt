@@ -8,6 +8,7 @@ northern_griffonia_superregion = {
 	northern_coast_region
 	hill_ponies_region
 	verenia_region
+	aquileia_region
 }
 
 southern_griffonia_superregion = {

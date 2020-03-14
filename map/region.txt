@@ -132,6 +132,35 @@ griffonstone_region = {
 	}
 }
 
+aquileia_region = {
+	areas = {
+		aquila_area
+		pelis_area
+		rila_area
+		pridea_area
+		vinovia_area
+		mantreux_area
+		skyaluzze_area
+		vanguardino_area
+		soussoix_area
+		flowerino_area
+		westkeep_area
+		leuse_area
+		meshorio_area
+		southwestkeep_area
+		pomovarra_area
+		flowena_area
+		tarrin_area
+		marcon_area
+		fezera_area
+		pulliers_area
+		falcontown_area
+		cloudguard_area
+		lissay_area
+		adelart_area
+	}
+}
+
 ########################################
 # OBSOLEAT                             #
 ########################################

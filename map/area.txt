@@ -279,6 +279,82 @@ bahama_channel_area = {
 # A land area is 3 - 10 provinces
 
 ########################################
+# Aquileia					 		   #
+########################################
+aquila_area = {
+	1761 179 77 188 4390 75
+}
+pelis_area = {
+	1760 91 94
+}
+rila_area = {
+	4383 98 95
+}
+soussoix_area = {
+	85 2975 84
+}
+pridea_area = {
+	180 195 4385 190
+}
+mantreux_area = {
+	1745 209 178
+}
+vinovia_area = {
+	187 186 4388 183 1879 1877
+}
+skyaluzze_area = {
+	131 4173 129 128
+}
+vanguardino_area = {
+	70 4389 177
+}
+flowerino_area = {
+	1762 83 81
+}
+westkeep_area = {
+	2967 63 2965 1744
+}
+leuse_area = {
+	71 74 185 184
+}
+meshorio_area = {
+	96 1742 2974
+}
+southwestkeep_area = {
+	1865 90 92
+}
+pomovarra_area = {
+	93 1866 1878
+}
+flowena_area = {
+	4369 4366 266
+}
+tarrin_area = {
+	1768 1872 68 76 1868 69
+}
+marcon_area = {
+	55 52 2964 97 56
+}
+fezera_area = {
+	54 1874 2972 53 1931
+}
+pulliers_area = {
+	2973 86 82 99
+}
+falcontown_area = {
+	264 2966 255 4238
+}
+cloudguard_area = {
+	4382 4381 100
+}
+lissay_area = {
+	66 1757 267 2956
+}
+adelart_area = {
+	42 2958 767
+}
+
+########################################
 # Haukland					 		   #
 ########################################
 haukland_area = {
@@ -640,16 +716,12 @@ brittany_area = { #5
 	169 170 171 172 4384
 }
 
-normandy_area = { #4
-	  1879 4385
-}
-
 provence_area = { #3
 	201 202 2991
 }
 
 poitou_area = { #4
-	180 4111 4386 4387
+	4111 4386 4387
 }
 
 guyenne_area = { #3
@@ -664,60 +736,13 @@ languedoc_area = { #4
 	196 200 2753 4391
 }
 
-bourgogne_area = { #5
-	color = { 144 0 32 }
-	 1877 
-}
-
 massif_central_area = { #3
 	color = { 26 26 217 }
-	190 195 199
+	199
 }
 
 savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
 	203 204 205
-}
-
-lorraine_area = { #3
-	187 188 
-}
-
-
-ile_de_france_area = { #4
-	 183 185 4388
-}
-
-champagne_area = { #3
-	 186 4390
-}
-
-loire_area = { #5
-	color = { 231 143 5 }
-	177 178 179 184 4389
-}
-
-########################################
-# Low Countries				 		   #
-########################################
-
-wallonia_area = { #5
-	91 92 93 94 1866
-}
-
-holland_area = { #3
-	96 97 4383
-}
-
-flanders_area = { #3
-	90 1744 1865
-}
-
-netherlands_area = { #5
-	95 98 99 1742 2974
-}
-
-frisia_area = { #4
-	100 1931 4381 4382
 }
 
 ########################################
@@ -754,7 +779,7 @@ toledo_area = { #5
 }
 
 asturias_area = { #4
-	 207 1745 4552 1746
+	 207 4552 1746
 }
 
 galicia_area = { #4
@@ -766,7 +791,7 @@ baleares_area = {
 }
 
 basque_country = { #3
-	209 210 2989
+	210 2989
 }
 
 leon_area = { #5
@@ -840,59 +865,6 @@ central_italy_area = { #4
 }
 
 ########################################
-# British Isles			 			   #
-########################################
-
-munster_area = { #3
-	
-}
-
-connacht_area = { #3
-	
-}
-
-leinster_area = { #4
-	
-}
-
-ulster_area = { #3
-
-}
-
-kingdom_of_the_isles_area = { #3
-}
-
-highlands_area = { #5
-	
-}
-
-lowlands_area = { #3
-	
-}
-
-wales_area = { #4
-	 4366 4369
-}
-
-scottish_marches_area = { #4
-	
-}
-
-yorkshire_area = { #3
-
-}
-
-
-east_midlands_area = { #3
-	
-}
-
-
-east_anglia_area = { #3
-	
-}
-
-########################################
 # Scandinavia			 			   #
 ########################################
 
@@ -959,19 +931,6 @@ greenland_area = { #2
 curonia_area = { #3
 	1935
 }
-
-east_prussia_area = { #4
-	 767 2958
-}
-
-west_prussia_area = { #4 (South West Prussia)
-	 42 43 
-}
-
-wielkopolska_area = { #5
-     255 
-}
-
 
 red_ruthenia_area = { #5 
 	261  2961 4541
@@ -1134,50 +1093,12 @@ saratov_area = { #3
 # Germany			 				   #
 ########################################
 
-silesia_area = { #4
-	 264 2966 4238
-}
-
-bohemia_area = { #5
-	 266  
-}
-
-erzgebirge_area = { #3
-	267  2967
-}
-
 upper_bavaria_area = { #3
-	 76 2955
+	2955
 }
-
-lower_bavaria_area = { #4
-	 1757 2956 
-}
-
-lower_swabia_area = { #3 (incl Ansbach/Schwabishe Hall)
-	70 71 1872
-}
-
-franconia_area = { #3
-	66
-}
-
-upper_swabia_area = { #3
-	68 69 1868
-}
-
-thuringia_area = { #3
-	 63 2965
-}
-
-
-vorpommern_area = { #3
-	  2964
-}
-
 
 tirol_area = { #3
-	73 110 1768
+	73 110
 }
 
 austria_proper_area = { #3
@@ -1186,53 +1107,17 @@ austria_proper_area = { #3
 }
 
 inner_austria_area = { #3
-	128 132 
+	132 
 }
 
 carinthia_area = { #3
 	color = { 46 217 110 }
-	129 130 
+	130 
 }
-
-
 
 romandie_area = { #3
 	  1871
 }
-
-upper_rhineland_area = { #4
-	 74 75 
-}
-
-palatinate_area = { #3
-	77 1761
-}
-
-north_rhine_area = { #3
-	84 85 2975 
-}
-
-lower_rhineland_area = { #3
-	 1760 1878
-}
-
-westphalia_area = { #5
-	56 82 86 2972 2973 
-}
-
-hesse_area = { #4
-	81 83 1762 
-}
-
-weser_area = { #3
-	54 55 1874 52
-}
-
-
-lower_saxony_area = { #3
-	 53 
-}
-
 
 ########################################
 # South Eastern Europe 				   #
@@ -1285,7 +1170,7 @@ bosnia_area = { #4
 
 croatia_area = { #5
 	color = { 18 126 16 }
-	131 152 1767 1828 4173
+	152 1767 1828
 }
 
 east_adriatic_coast_area = { #3
