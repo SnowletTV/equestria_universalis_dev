@@ -4,3 +4,10 @@ guarantee = {
 	start_date = 1440.2.10
 	end_date = 1670.1.1
 }
+
+march = {
+	first = KAT
+	second = CNA
+	start_date = 1396.5.4
+	end_date = 1670.1.1
+}

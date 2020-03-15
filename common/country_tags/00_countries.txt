@@ -38,7 +38,7 @@ FEA = "countries/Feathisia.txt"
 AIW = "countries/Aiwle.txt"
 LXB = "countries/Luxwingburg.txt"
 REI = "countries/Reitscheid.txt"
-CRO = "countries/Crona.txt"
+CNA = "countries/Crona.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

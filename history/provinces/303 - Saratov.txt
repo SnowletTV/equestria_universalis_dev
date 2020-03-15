@@ -1,12 +1,12 @@
-owner = LCT
-controller = LCT
-culture = lakepony
-religion = eastern_pony
-add_core = LCT
+owner = CNA
+controller = CNA
+culture = griffkingian
+religion = archonate
+add_core = CNA
 hre = no
 base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
 
-discovered_by = eastern
+discovered_by = western
