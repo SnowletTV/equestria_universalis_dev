@@ -1,8 +1,6 @@
-#Country Name: Please see filename.
-
 graphical_culture = westerngfx
 
-color = { 204 51 0 }
+color = { 200 116 54 }
 
 
 historical_idea_groups = {
