@@ -1,5 +1,8 @@
+owner = HEL
+controller = HEL
 culture = griffkingian
-religion = old_believer
+religion = archonate
+add_core = HEL
 hre = no
 base_tax = 1
 base_production = 1

@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = griffkingian
+religion = archonate
+capital = 167
+fixed_capital = 167
+
+1440.6.20 = {
+	monarch = {
+		name = "Wilhelm II"
+		dynasty = "Helstein"
+		birth_date = 1422.3.7
+		adm = 2
+		dip = 4
+		mil = 4
+		female = no
+	}
+}

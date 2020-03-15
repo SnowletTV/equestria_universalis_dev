@@ -6,8 +6,15 @@ guarantee = {
 }
 
 march = {
-	first = KAT
+	first = KTR
 	second = CNA
 	start_date = 1396.5.4
+	end_date = 1670.1.1
+}
+
+march = {
+	first = KTR
+	second = HEL
+	start_date = 1364.8.11
 	end_date = 1670.1.1
 }
