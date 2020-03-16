@@ -18,3 +18,9 @@ march = {
 	start_date = 1364.8.11
 	end_date = 1670.1.1
 }
+alliance = {
+	first = FEA
+	second = RDW
+	start_date = 1364.8.11
+	end_date = 1670.1.1
+}
