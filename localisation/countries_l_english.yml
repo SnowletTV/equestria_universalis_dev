@@ -87,4 +87,7 @@
  WIN_ADJ:0 "Winterbellen"
  FLU:0 "Flussschloss"
  FLU_ADJ:0 "Flussschlosser"
-
+ STA:0 "Starclaw"
+ STA_ADJ:0 "Starclawian"
+ EIN:0 "Eindlem"
+ EIN_ADJ:0 "Eindlemmer"

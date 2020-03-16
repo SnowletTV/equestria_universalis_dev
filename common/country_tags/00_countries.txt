@@ -49,6 +49,8 @@ OSN = "countries/Osnabeak.txt"
 BEE = "countries/Beerenbeck.txt"
 WIN = "countries/Winterbell.txt"
 FLU = "countries/Flussschloss.txt"
+STA = "countries/Starclaw.txt"
+EIN = "countries/Eindlem.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

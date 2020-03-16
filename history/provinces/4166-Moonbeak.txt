@@ -1,0 +1,12 @@
+owner = STA
+controller = STA
+culture = griffkingian
+religion = archonate
+add_core = STA
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+discovered_by = western

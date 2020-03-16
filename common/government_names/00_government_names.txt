@@ -49,6 +49,7 @@ griffon_county = {
 			tag = VNG
 			tag = INT
 			tag = BEE
+			tag = STA
 		}
 	}
 }
