@@ -102,6 +102,7 @@ griffon_barony = {
 			tag = WNT
 			tag = AIW
 			tag = KRS
+			tag = FLU
 		}
 	}
 }

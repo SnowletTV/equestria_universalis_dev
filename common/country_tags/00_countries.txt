@@ -47,6 +47,8 @@ KRS = "countries/Krästanz.txt"
 RGA = "countries/Ravensgau.txt"
 OSN = "countries/Osnabeak.txt"
 BEE = "countries/Beerenbeck.txt"
+WIN = "countries/Winterbell.txt"
+FLU = "countries/Flussschloss.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

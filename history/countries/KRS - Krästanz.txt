@@ -10,12 +10,12 @@ fixed_capital = 258
 
 1440.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = ""
+		name = "Frederick V"
+		dynasty = "von Ravensburg"
 		female = no
 		birth_date = 1411.10.5
-		adm = 2
+		adm = 3
 		dip = 5
-		mil = 2
+		mil = 4
 	}
 }

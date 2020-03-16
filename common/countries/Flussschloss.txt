@@ -2,7 +2,7 @@
 
 graphical_culture = westerngfx
 
-color = { 188 190 46 }
+color = { 168 70 118 }
 
 
 historical_idea_groups = {
@@ -35,9 +35,7 @@ historical_units = {
 }
 
 monarch_names = {
-	"Frederick #5" = 100
-	"Karl #7" = 100
-	"Wilhelm #4" = 100
+	
 }
 
 leader_names = {

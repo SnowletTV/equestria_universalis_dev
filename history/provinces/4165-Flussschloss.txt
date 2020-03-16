@@ -1,0 +1,12 @@
+owner = FLU
+controller = FLU
+culture = griffkingian
+religion = archonate
+add_core = FLU
+hre = no
+base_tax = 3
+base_production = 2
+base_manpower = 3
+is_city = yes
+
+discovered_by = western

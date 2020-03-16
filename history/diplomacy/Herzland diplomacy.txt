@@ -24,3 +24,17 @@ alliance = {
 	start_date = 1364.8.11
 	end_date = 1670.1.1
 }
+
+guarantee = {
+	first = BEE
+	second = OSN
+	start_date = 1300.1.1
+	end_date = 1670.1.1
+}
+
+guarantee = {
+	first = WIN
+	second = FLU
+	start_date = 1286.3.11
+	end_date = 1670.1.1
+}

@@ -83,3 +83,8 @@
  OSN_ADJ:0 "Osnabeaker"
  BEE:0 "Beerenbeck"
  BEE_ADJ:0 "Beerenbecker"
+ WIN:0 "Winterbell"
+ WIN_ADJ:0 "Winterbellen"
+ FLU:0 "Flussschloss"
+ FLU_ADJ:0 "Flussschlosser"
+
