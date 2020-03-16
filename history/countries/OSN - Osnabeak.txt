@@ -1,0 +1,19 @@
+government = theocracy
+add_government_reform = leading_clergy_reform
+government_rank = 1
+technology_group = western
+primary_culture = griffkingian
+religion = archonate
+capital = 770
+fixed_capital = 770
+
+1440.6.20 = {
+	monarch = {
+		name = "Markus I von Beerenbeck"
+		birth_date = 1408.7.2
+		adm = 3
+		dip = 5
+		mil = 1
+		female = no
+	}
+}

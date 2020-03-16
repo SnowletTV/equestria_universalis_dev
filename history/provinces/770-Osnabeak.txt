@@ -1,11 +1,11 @@
-owner = RAV
-controller = RAV
+owner = OSN
+controller = OSN
 culture = griffkingian
 religion = archonate
-add_core = RAV
+add_core = OSN
 hre = no
-base_tax = 3
-base_production = 3
+base_tax = 4
+base_production = 4
 base_manpower = 3
 is_city = yes
 

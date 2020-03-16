@@ -1,12 +1,12 @@
-owner = RAV
-controller = RAV
+owner = CRS
+controller = CRS
 culture = griffkingian
 religion = archonate
-add_core = RAV
+add_core = CRS
 hre = no
 base_tax = 3
-base_production = 3
-base_manpower = 3
+base_production = 2
+base_manpower = 2
 is_city = yes
 
 discovered_by = western

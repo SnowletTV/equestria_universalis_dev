@@ -41,6 +41,12 @@ REI = "countries/Reitscheid.txt"
 CNA = "countries/Crona.txt"
 HEL = "countries/Helheim.txt"
 RDW = "countries/Readewetter.txt"
+RAV = "countries/Ravensburg.txt"
+CRS = "countries/Mittelfeld.txt"
+KRS = "countries/Krästanz.txt"
+RGA = "countries/Ravensgau.txt"
+OSN = "countries/Osnabeak.txt"
+BEE = "countries/Beerenbeck.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"

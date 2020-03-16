@@ -1,8 +1,8 @@
-owner = RGA
-controller = RGA
+owner = BEE
+controller = BEE
 culture = griffkingian
 religion = archonate
-add_core = RGA
+add_core = BEE
 hre = no
 base_tax = 2
 base_production = 1

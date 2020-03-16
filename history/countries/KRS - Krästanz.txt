@@ -2,19 +2,20 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
+unit_type = western
 primary_culture = griffkingian
-religion = archonate
-capital = 67
-fixed_capital = 67
+religion = old_believer
+capital = 258
+fixed_capital = 258
 
 1440.6.20 = {
 	monarch = {
-		name = "Jeorg-Karl"
-		dynasty = "Horstweiler"
-		birth_date = 1389.3.14
-		adm = 3
-		dip = 4
-		mil = 0
+		name = ""
+		dynasty = ""
 		female = no
+		birth_date = 1411.10.5
+		adm = 2
+		dip = 5
+		mil = 2
 	}
 }

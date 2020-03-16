@@ -48,6 +48,7 @@ griffon_county = {
 			tag = REI
 			tag = VNG
 			tag = INT
+			tag = BEE
 		}
 	}
 }
@@ -100,6 +101,7 @@ griffon_barony = {
 			tag = VIN
 			tag = WNT
 			tag = AIW
+			tag = KRS
 		}
 	}
 }

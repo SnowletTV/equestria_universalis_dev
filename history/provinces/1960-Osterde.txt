@@ -1,8 +1,8 @@
-owner = CNA
-controller = CNA
+owner = BEE
+controller = BEE
 culture = griffkingian
-religion = old_believer
-add_core = CNA
+religion = archonate
+add_core = BEE
 hre = no
 base_tax = 1
 base_production = 1

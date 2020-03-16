@@ -4,17 +4,17 @@ government_rank = 1
 technology_group = western
 primary_culture = griffkingian
 religion = archonate
-capital = 67
-fixed_capital = 67
+capital = 273
+fixed_capital = 273
 
 1440.6.20 = {
 	monarch = {
-		name = "Jeorg-Karl"
-		dynasty = "Horstweiler"
-		birth_date = 1389.3.14
+		name = "Johan III"
+		dynasty = "von Beerenbeck"
+		birth_date = 1384.3.11
 		adm = 3
 		dip = 4
-		mil = 0
+		mil = 3
 		female = no
 	}
 }
