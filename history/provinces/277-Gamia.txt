@@ -1,0 +1,12 @@
+owner = RMA
+controller = RMA
+culture = romauan
+religion = archonate
+add_core = RMA
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 4
+is_city = yes
+
+discovered_by = western

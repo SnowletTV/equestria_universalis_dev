@@ -51,6 +51,7 @@ WIN = "countries/Winterbell.txt"
 FLU = "countries/Flussschloss.txt"
 STA = "countries/Starclaw.txt"
 EIN = "countries/Eindlem.txt"
+RMA = "countries/Romau.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
