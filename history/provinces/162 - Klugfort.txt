@@ -1,7 +1,7 @@
 owner = KTR
 controller = KTR
-culture = griffkingian
-religion = old_believer
+culture = katerin
+religion = archonate
 add_core = KTR
 hre = no
 base_tax = 1

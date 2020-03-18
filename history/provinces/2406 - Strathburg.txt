@@ -1,4 +1,8 @@
-religion = old_believer
+owner = KTR
+controller = KTR
+culture = katerin
+religion = archonate
+add_core = KTR
 hre = no
 base_tax = 1
 base_production = 1
