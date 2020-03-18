@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = griffkingian
+religion = old_believer
+capital = 40
+fixed_capital = 40
+
+1440.6.20 = {
+	monarch = {
+		name = ""
+		dynasty = "Blacktalon"
+		birth_date = 1400.3.11
+		adm = 3
+		dip = 3
+		mil = 3
+		female = no
+	}
+}
