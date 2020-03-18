@@ -1,0 +1,12 @@
+owner = SCM
+controller = SCM
+culture = katerin
+religion = maarite
+add_core = SCM
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = no
+
+discovered_by = western
