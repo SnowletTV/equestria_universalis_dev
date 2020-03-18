@@ -735,6 +735,65 @@ north_vartai_area {
 south_vartai_area {
 	261 268 2961 4541
 }
+
+########################################
+# Evi Valley			    		   #
+########################################
+lushi_area {
+	286 1846 2201 2413  2749 4530 
+	}
+
+floarea_alba_area {
+	2205 2314 4305 4315
+}
+
+kivessin_area {
+	216 316 2300 4299 4314
+}
+
+brodfeld_area {
+	329 2299 4313
+}
+
+acute_forest_area {
+	2305 4302 4304 4340
+}
+
+aegland_area {
+	288 1935 2414 4555 2411 4558
+}
+
+purpleground_area {
+	420 421 2202
+}
+
+nicage_area {
+	232 466 469
+}
+
+kaiv_area {
+	231 468 471 2189 2363
+}
+
+guardian_fields_area {
+	382 437 444 1854 4297
+}
+
+night_forest_area {
+	378 411 2350
+}
+
+czarna_dabrowka_area {
+	442 455 1849 1855
+}
+
+krynika_morska_area {
+	438 441 2207 2309 4300
+}
+
+rzecznica_area {
+	416 2348 2349 4293
+}
 ########################################
 # France					 		   #
 ########################################
@@ -812,7 +871,7 @@ asturias_area = { #4
 }
 
 galicia_area = { #4
-	 4554 4555 4558
+	 4554 
 }
 
 baleares_area = {
@@ -825,11 +884,11 @@ basque_country = { #3
 
 leon_area = { #5
 	color = { 243 235 28 }
-	208 216 218 1747
+	208  218 1747
 }
 
 beieras_area = { #4
-	231 232 228 1851 4556
+   228 1851 4556
 }
 
 alentejo_area = { #4
@@ -957,9 +1016,6 @@ greenland_area = { #2
 # Eastern Europe    			 	   #
 ########################################
 
-curonia_area = { #3
-	1935
-}
 
 podolia_volhynia_area = { #3
 	281 4540  
@@ -987,17 +1043,6 @@ chernigov_area = {
 sloboda_ukraine_area = { #4
 	   2408
 }
-
-
-zaporizhia_area = { #3
-	 2411 
-}
-
-azov_area = { #4
-	286 2413 2414
-}
-
-
 
 
 minsk_area = { #4
@@ -1035,9 +1080,6 @@ oka_area = { #3
 	296 300 4116
 }
 
-novgorod_area = { #5
-	2749
-}
 
 vologda_area = { #3
 	 4262 4263
@@ -1047,12 +1089,8 @@ beloozero_area = { #3
 	312
 }
 
-astrakhan_area = { #5
-	466 468
-}
-
 lower_don_area = { #4
-	288  1971 
+	  1971 
 }
 
 kazan_area = { #3
@@ -1064,11 +1102,11 @@ samara_area = { #3
 }
 
 lower_yik_area = { #4
-	469 474 2365 2367
+	 474 2365 2367
 }
 
 nogai_area = { #5
-	465 470 471 472 2366
+	465 470  472 2366
 }
 
 ural_area = { #5
@@ -1157,15 +1195,6 @@ bulgaria_area = { #5
 	150  1765 2746
 }
 
-
-
-moldavia_area = { #5
-	    4530
-}
-
-
-
-
 serbia_area = { #4
 	141 3000 4176 4239
 }
@@ -1214,34 +1243,19 @@ kartli_kakheti_area = { #3
 }
 
 armenia_area = { #5
-	420 419 2202 2205 4302
+	 419   
 }
-
-shirvan_area = { #5 #Northern Azerbaijan
-	color = { 225 231 53 }
-	421  4299 4305 4340
-}
-
-circassia_area = { #4
-	2201 
-}
-
-
 
 ########################################
 # Anatolia, The Levant & Mesopotamia   #
 ########################################
 
-rum_area = { #5
-	329 1846 2300 4314 4315
-}
-
 erzurum_area = { #3	Erzurum and Trebizond
-	330 331 2305
+	330 331 
 }
 
 hudavendigar_area = { #3
-	316 317 2296
+	 317 2296
 }
 
 germiyan_area = { #4
@@ -1256,15 +1270,15 @@ aydin_area = { #5
 
 ankara_area = { #3
 	color = { 57 154 172 }
-	326 4312 4313
+	326 4312 
 }
 
 aegean_archipelago_area = { #4
-	164 320 2348 3003
+	164 320  3003
 }
 
 kastamonu_area = { #4
-	325 328 2299 
+	325 328  
 }
 
 karaman_area = { #4
@@ -1277,11 +1291,7 @@ cukurova_area = { #3
 }
 
 aleppo_area = { #4
-	377 1849 2313 4298
-}
-
-syria_area = { #4
-	378 382 1855 4297
+	377  2313 4298
 }
 
 trans_jordan_area = { #3
@@ -1289,7 +1299,7 @@ trans_jordan_area = { #3
 }
 
 palestine_area = { #3
-	364 379 1854
+	364 379 
 }
 
 dulkadir_area = { # 4
@@ -1319,12 +1329,12 @@ khuzestan_area = { #5
 
 shahrizor_area = {	#4
 	color = { 152 102 102 }
-	415 2211 4293 4294
+	415 2211  4294
 }
 
 al_jazira_area = { #5
 	color = { 92 200 92 }
-	407 411 2309 2314 4292
+	407    4292
 }
 
 
@@ -1977,11 +1987,11 @@ arys_area = { #3
 }
 
 kyzylkum_area = { #3
-	455 1970 2363
+	 1970 
 }
 
 transoxiana_area = { #3
-	442 453 454
+	 453 454
 }
 
 termez_area = { #3
@@ -1989,16 +1999,12 @@ termez_area = { #3
 }
 
 khiva_area = { #5
-	440 441 1973 2362 
+	440  1973 2362 
 }
 
 kabulistan_area = { #5
 	color = { 96 219 }
 	448 451 452 578 2226
-}
-
-transcaspia_area = {
-	437 438   2349
 }
 
 mashhad_area = { #4 - Northern Khorasan
@@ -2020,7 +2026,7 @@ ghor_area = { #3
 
 merv_area = { #3
 	color = { 60 186 134 }
-	444 445 2350
+	 445 
 }
 
 balkh_area = { #3
@@ -2048,7 +2054,7 @@ iraq_e_ajam_area = { #5
 }
 
 azerbaijan_area = { #5 #Southern Azerbaijan
-	2212 2215 4300 4338
+	2212 2215  4338
 }
 
 isfahan_area = { #3
@@ -2056,7 +2062,7 @@ isfahan_area = { #3
 }
 
 tabriz_area = { #4 Central Azerbaijan
-	416 2206 2207 4304
+	 2206  
 }
 
 tabarestan_area = { #5
@@ -2764,7 +2770,7 @@ central_mongolia_area = { #3
 }
 
 uliastai_area = {#3
-	719 2189 2190 4668 4678
+	719  2190 4668 4678
 }
 
 jetysuu_area = { #5
