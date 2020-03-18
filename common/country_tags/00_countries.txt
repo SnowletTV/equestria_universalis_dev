@@ -55,7 +55,6 @@ RMA = "countries/Romau.txt"
 MID = "countries/Middenheim.txt"
 GRN = "countries/Greenback.txt"
 YAL = "countries/Yale.txt"
-SCM = "countries/Scheisswald_Maar.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
