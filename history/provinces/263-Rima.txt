@@ -1,7 +1,7 @@
 owner = RMA
 controller = RMA
 culture = romauan
-religion = archonate
+religion = Arantigan
 add_core = RMA
 hre = no
 base_tax = 4
