@@ -97,30 +97,45 @@ hertzlander = {
 		primary = KAT
 		
 		male_names = {
-			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
-			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
-			Andreas Bruno Burkhard Günther HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
-			Alwin Adémar Alwin Adolf Albert Albrecht Arnold Baltasar
-			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
-			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
-			Erik Albert Ewald Frederick Gerard Gebhard Giselmar Gottschalk Günther Hans 
-			Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Johann Kersten 
-			Christian Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
-			Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
-			Peter Philip Renard Reinmar Roger Rudolf Ralph Sigbert Sigisbert
-			Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
-			Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
-		}
-	}
-	griffkingian = {
-	
-		male_names = {
 			Albrecht Friedrich August Emil Ferdinand Karl Ludwig Karl Wilhelm Adolf Alfred Anton Benedikt 
 			Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried Hartmann Heinrich Helmut 
 			Horst Joachim Kaspar Kurt Leo Ludwig Lukas Manfred Michael Nikolaus Oskar Otto Philipp Reiner Rudolf 
 			Rupprecht Siegfried Siegmund Thomas Urs Viktor Werner Alvydas Arelis Auctune Bajoras Beidras Budo Dagonis 
 			Ekkelis Galindas Galindo Gauronas Gerdautas Glande Golding Jauguttis Karatas Klukis Kugis Milzas Nomedas 
 			Prusas Sergonis Ulinniks Ulitis
+		}
+	}
+	griffkingian = {
+	
+		male_names = {
+			Friedrich Albrecht Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
+			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
+			Andreas Bruno Burkhard Günther Lukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin 
+			Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
+			Alwin Adémar Adolf Albert Arnold Baltasar
+			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
+			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
+			Erik Ewald Frederick Gerard Gebhard Giselmar Gottschalk Hans 
+			Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Kersten 
+			Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
+			Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
+			Philip Renard Reinmar Roger Sigbert Sigisbert
+			Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
+			Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
+		}
+		
+	}
+	south_griffkingian = {
+	
+		male_names = {
+			Albrecht Wilhelm Johann Ernst Maximilian Emanuel Siegmund Ludwig Anton Christoph Ferdinand  
+			Leopold Philipp Theodor Adalbert Alois Clemens August Friedrich Joseph  
+			Luitpold Moritz Wolfgang Engelbert Gottfried Hieronymus Ignatz Markus Meinhard 
+			Raphael Karl Kajetan
+			Otto Heinrich Werner Alfred Benedikt Dietrich 
+			Florian Gerhard Immanuel Johan Leonhard Nikolaus Paul Ruprecht Stefan Thomas Ulrich 
+			Vinzenz André Charles Didier Emmanuel Frédéric Gérard Henri Jules Matthieu Nicolas Pascal 
+			Vincent Claudio Edmondo Leonardo Timoteo
 		}
 		
 	}
