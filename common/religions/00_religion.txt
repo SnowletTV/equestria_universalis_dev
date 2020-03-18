@@ -78,6 +78,7 @@ griffon_religion = {
 		}
 		province = {
 			local_missionary_strength = -0.02
+			local_unrest = 4
 		}
 		country_as_secondary = {
 			diplomatic_reputation = -1
