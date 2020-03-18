@@ -51,7 +51,7 @@ eyr =
 arcturius =
 {
 	monarch_military_power = 1
-	discipline = 0.05
+	land_morale = 0.1
 	
 	allow = { 
 		OR = {
@@ -75,6 +75,7 @@ arcturius =
 }
 wise_lady =
 {
+	republican_tradition = 0.1
 	legitimacy = 0.1
 	horde_unity = 0.1
 	technology_cost = -0.05

@@ -87,12 +87,11 @@ griffon_religion = {
 		declare_war_in_regency = yes
 		heretic = { QUADITARIAN DREAMWALKER MERCIFUL }
 	}
-	Arantigan = {
+	arantigan = {
 		color = { 70 124 126 }
-		icon = 15
+		icon = 18
 		allowed_conversion = {
 			archonate
-			old_believer
 		}
 		on_convert = {
 				change_religion = archonate
@@ -104,7 +103,8 @@ griffon_religion = {
 		}
 		country = {
 			army_tradition = 0.5
-			discipline = 0.05			}
+			discipline = 0.05			
+		}
 		province = {
 			local_missionary_strength = -0.01
 		}
@@ -112,8 +112,10 @@ griffon_religion = {
 			army_tradition = 0.25
 			land_forcelimit_modifier = 0.05
 		}
+		fervor = yes
+		misguided_heretic = yes
 		declare_war_in_regency = yes
-		heretic = { TRINITARIAN MONOTHEIST }
+		heretic = { TRINITARIAN }
 	}
 }
 
