@@ -171,6 +171,25 @@ western_riverlands_region = {
 		south_vartai_area
 	}
 }
+
+evi_valley_region = {
+	areas = {
+		lushi_area
+		brodfeld_area
+		kivessin_area
+		acute_forest_area
+		floarea_alba_area
+		aegland_area
+		purpleground_area
+		nicage_area
+		kaiv_area
+		guardian_fields_area
+		night_forest_area
+		czarna_dabrowka_area
+		krynika_morska_area
+		rzecznica_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################
