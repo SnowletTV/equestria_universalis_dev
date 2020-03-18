@@ -1,4 +1,8 @@
-religion = old_believer
+owner = YAL
+controller = YAL
+culture = griffkingian
+religion = archonate
+add_core = YAL
 hre = no
 base_tax = 1
 base_production = 1

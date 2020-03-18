@@ -50,6 +50,8 @@ griffon_county = {
 			tag = INT
 			tag = BEE
 			tag = STA
+			tag = MID
+			tag = GRN
 		}
 	}
 }

@@ -52,6 +52,9 @@ FLU = "countries/Flussschloss.txt"
 STA = "countries/Starclaw.txt"
 EIN = "countries/Eindlem.txt"
 RMA = "countries/Romau.txt"
+MID = "countries/Middenheim.txt"
+GRN = "countries/Greenback.txt"
+YAL = "countries/Yale.txt"
 
 # Riverlands
 RCT = "countries/RiverCity.txt"
