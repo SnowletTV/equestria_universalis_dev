@@ -1,6 +1,6 @@
 owner = MID
 controller = MID
-culture = griffkingian
+culture = south_griffkingian
 religion = archonate
 add_core = MID
 hre = no

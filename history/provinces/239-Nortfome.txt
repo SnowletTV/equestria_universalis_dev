@@ -1,6 +1,6 @@
 owner = PYT
 controller = PYT
-culture = griffkingian
+culture = south_griffkingian
 religion = old_believer
 add_core = PYT
 hre = no

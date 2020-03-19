@@ -1,6 +1,6 @@
 owner = GRN
 controller = GRN
-culture = griffkingian
+culture = south_griffkingian
 religion = archonate
 add_core = GRN
 hre = no

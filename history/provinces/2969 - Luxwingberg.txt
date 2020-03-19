@@ -1,6 +1,6 @@
 owner = LXB
 controller = LXB
-culture = griffkingian
+culture = south_griffkingian
 religion = archonate
 add_core = LXB
 hre = no

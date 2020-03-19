@@ -1,6 +1,6 @@
 owner = HEL
 controller = HEL
-culture = griffkingian
+culture = south_griffkingian
 religion = archonate
 add_core = HEL
 hre = no

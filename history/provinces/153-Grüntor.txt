@@ -1,6 +1,6 @@
 owner = YAL
 controller = YAL
-culture = griffkingian
+culture = south_griffkingian
 religion = archonate
 add_core = YAL
 hre = no
