@@ -808,7 +808,83 @@ cannabia_area {
 }
 
 neachora_area {
-	149 317 322 332 4311 4312
+	 317 322 332 2212 4311 4312
+}
+
+dageiadic_islands_area {
+	409 415 4294
+}
+
+aetiea_area {
+	126 406 2215 2310 4271
+}
+
+gelion_and_kaikion_area {
+	149 428 413 4290 4337
+}
+
+asteriads_area {
+	142 163 164 320 321 
+}
+
+asters_landing_area {
+	144 145 146 2210 3003
+}
+
+prospero_area {
+	414 2209 2213 2296 2297 4308 
+}
+
+agelada_area {
+	147 1773 4291 4341
+}
+
+lillai_area {
+	319 1848 2298
+}
+
+anamesa_area {
+	323 327 2211 4335
+}
+
+thermorion_area {
+	318 377 417 2302 2313 4298 
+}
+
+phocapetra_area {
+	324 418 2308 4295
+}
+
+minos_area {
+	426 2206 4292 4296 
+}
+
+arahno_pass_area {
+	419 423 2203 2204 4301
+}
+
+keowen_and_leve_area {
+	112 130 136 205 4112
+}
+
+queruscos_area {
+	174 194 203 4387 
+}
+
+valle_del_tridente_area {
+	199 410 2753 4111
+}
+
+midoria_area {
+	125 175 196 1853 2982 
+}
+
+eritrocefalia_area {
+	137 143 148  4174 4175
+}
+
+scarlet_area {
+	124 127 1247 2986 
 }
 ########################################
 # France					 		   #
@@ -817,7 +893,7 @@ neachora_area {
 brittany_area = { #5
 	color = { 118  99  151 }
 
-	169 170 171 172 4384
+	169 170 171 172 4384 
 }
 
 provence_area = { #3
@@ -825,28 +901,23 @@ provence_area = { #3
 }
 
 poitou_area = { #4
-	4111 4386 4387
+	 4386 
 }
 
 guyenne_area = { #3
-	194 198 4112
+	 198 
 }
 
 pyrenees_area = { #3
-	174 175 176 173
+	  176 173
 }
 
 languedoc_area = { #4
-	196 200 2753 4391
-}
-
-massif_central_area = { #3
-	color = { 26 26 217 }
-	199
+	 200  4391
 }
 
 savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
-	203 204 205
+	 204 
 }
 
 ########################################
@@ -920,7 +991,7 @@ macaronesia_area = { #3
 ########################################
 
 venetia_area = { #4
-	108 111 112 1774
+	108 111  1774
 }
 
 lombardy_area = { #4
@@ -937,14 +1008,6 @@ tuscany_area = { #5
 
 liguria_area = { #3
 	101 102 2992
-}
-
-corsica_sardinia_area = { #3
-	127 1247 2986
-}
-
-sicily_area = { #4
-	124 125 126 2982
 }
 
 naples_area = { #3  #Lazio-Campania
@@ -1137,11 +1200,6 @@ inner_austria_area = { #3
 	132 
 }
 
-carinthia_area = { #3
-	color = { 46 217 110 }
-	130 
-}
-
 romandie_area = { #3
 	  1871
 }
@@ -1151,15 +1209,7 @@ romandie_area = { #3
 ########################################
 
 macedonia_area = { #4 (Macedonia)
-	148 1853 3001
-}
-
-morea_area = { #4 Central Greece & Crete
-	145 146 163 1773 
-}
-
-northern_greece_area = { #3 #Northern Greece
-	142 144 147
+	  3001
 }
 
 bulgaria_area = { #5
@@ -1174,10 +1224,6 @@ rascia_area = { #3
 	138 1766 1827
 }
 
-albania_area = {
-	143 4174 4175
-}
-
 bosnia_area = { #4
 	139 140 1831 3002
 }
@@ -1188,7 +1234,7 @@ croatia_area = { #5
 }
 
 east_adriatic_coast_area = { #3
-	136 137 1826
+	  1826
 }
 
 alfold_area = { #4
@@ -1206,15 +1252,7 @@ transdanubia_area = { #5
 
 
 samtskhe_area = { #3
-	2196 2204 
-}
-
-kartli_kakheti_area = { #3
-	423 2203 4301
-}
-
-armenia_area = { #5
-	 419   
+	2196  
 }
 
 ########################################
@@ -1225,22 +1263,10 @@ erzurum_area = { #3	Erzurum and Trebizond
 	330  
 }
 
-hudavendigar_area = { #3
-	  2296
-}
-
-germiyan_area = { #4
-	color = {  145 65 }
-	 1848 4308 
-}
 
 aydin_area = { #5
 	color = {  70 86 }
-	318 319 2297 2298 4309
-}
-
-aegean_archipelago_area = { #4
-	164 320  3003
+	  4309
 }
 
 kastamonu_area = { #4
@@ -1248,16 +1274,7 @@ kastamonu_area = { #4
 }
 
 karaman_area = { #4
-	323 324  4307
-}
-
-cukurova_area = { #3
-	color = { 50 177 200 }
-	321 327 2302
-}
-
-aleppo_area = { #4
-	377  2313 4298
+	   4307
 }
 
 trans_jordan_area = { #3
@@ -1268,39 +1285,18 @@ palestine_area = { #3
 	364 379 
 }
 
-dulkadir_area = { # 4
-	color = { 184 54 72 }
-	  2308 
-}
-
-iraq_arabi_area = { #5 Lower Mesopotamia
-	406 409 410 2310 4291
-}
-
 basra_area = { #4
 	408 2311 2312 4288
 }
 
-luristan_area = { #4
-	413 414 2209 2210
-}
-
-north_kurdistan_area = { #5
-	418  4295 4296
-}
-
 khuzestan_area = { #5
-	412 2217 4289 4290 4342
+	412 2217 4289  4342
 }
 
-shahrizor_area = {	#4
-	color = { 152 102 102 }
-	415 2211  4294
-}
 
 al_jazira_area = { #5
 	color = { 92 200 92 }
-	407    4292
+	407    
 }
 
 
@@ -1380,7 +1376,7 @@ mascat_area = { #3 (Batinah and Muscat coast
 
 syrian_desert_area = { #3
 	color = { 219 30 57 }
-    4270 4271
+    4270 
 }
 
 ########################################
@@ -2016,23 +2012,20 @@ farsistan_area = { #4
 }
 
 iraq_e_ajam_area = { #5
-	427 428 2213 2216 4337
+	427   2216 
 }
 
 azerbaijan_area = { #5 #Southern Azerbaijan
-	2212 2215  4338
+	   4338
 }
 
 isfahan_area = { #3
-	429 433 2222 4335 4171
+	429 433 2222  4171
 }
 
-tabriz_area = { #4 Central Azerbaijan
-	 2206  
-}
 
 tabarestan_area = { #5
-	417 426 2214 4339 4341
+	  2214 4339 
 }
 
 ########################################

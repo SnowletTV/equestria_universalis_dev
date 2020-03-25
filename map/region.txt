@@ -196,6 +196,25 @@ costa_eler_region = {
 		salmarkt_area
 		cannabia_area
 		neachora_area
+		dageiadic_islands_area
+		aetiea_area
+		gelion_and_kaikion_area
+		asteriads_area
+		asters_landing_area
+		prospero_area
+		agelada_area
+		lillai_area
+		anamesa_area
+		thermorion_area
+		phocapetra_area
+		minos_area
+		arahno_pass_area
+		keowen_and_leve_area
+		queruscos_area
+		valle_del_tridente_area
+		midoria_area
+		eritrocefalia_area
+		scarlet_area
 	}
 }
 ########################################
