@@ -190,6 +190,14 @@ evi_valley_region = {
 		rzecznica_area
 	}
 }
+
+costa_eler_region = {
+	areas = {
+		salmarkt_area
+		cannabia_area
+		neachora_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################

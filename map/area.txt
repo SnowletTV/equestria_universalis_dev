@@ -702,7 +702,7 @@ murkbeak_area {
 }
 
 schwarzhohl_area {
-	160 2304 4531 4303
+	160 2304 4531 
 }
 
 uberberg_area {
@@ -793,6 +793,22 @@ krynika_morska_area {
 
 rzecznica_area {
 	416 2348 2349 4293
+}
+
+
+########################################
+# Costa Eler				 		       #
+########################################
+salmarkt_area {
+	151 326 4310
+}
+
+cannabia_area {
+	331 2301 2303 2306 2307 4303
+}
+
+neachora_area {
+	149 317 322 332 4311 4312
 }
 ########################################
 # France					 		   #
@@ -956,49 +972,8 @@ central_italy_area = { #4
 # Scandinavia			 			   #
 ########################################
 
-
-gotaland_area = { #3 Östra Götaland
-	
-}
-
-vastra_gotaland_area = { #Västra Götaland #4
-	 
-}
-
-svealand_area = { #3
-	  
-}
-
-ostra_svealand_area = { #4
-	 
-}
-
-norrland_area = { #4
-	  
-}
-
-finland_area = { #5
-	 
-}
-
-bothnia_area = { #4 
-
-}
-
 laponia_area = { #3
 	 1777 4151
-}
-
-northern_norway = { #3
-     
-}
-
-eastern_norway = { #4
-	 
-}
-
-western_norway = { #4
-	
 }
 
 subarctic_islands_area = { #2
@@ -1187,10 +1162,6 @@ northern_greece_area = { #3 #Northern Greece
 	142 144 147
 }
 
-thrace_area = { #3
-	149 151
-}
-
 bulgaria_area = { #5
 	150  1765 2746
 }
@@ -1251,26 +1222,21 @@ armenia_area = { #5
 ########################################
 
 erzurum_area = { #3	Erzurum and Trebizond
-	330 331 
+	330  
 }
 
 hudavendigar_area = { #3
-	 317 2296
+	  2296
 }
 
 germiyan_area = { #4
 	color = {  145 65 }
-	322 1848 4308 4311
+	 1848 4308 
 }
 
 aydin_area = { #5
 	color = {  70 86 }
 	318 319 2297 2298 4309
-}
-
-ankara_area = { #3
-	color = { 57 154 172 }
-	326 4312 
 }
 
 aegean_archipelago_area = { #4
@@ -1282,7 +1248,7 @@ kastamonu_area = { #4
 }
 
 karaman_area = { #4
-	323 324 2301 4307
+	323 324  4307
 }
 
 cukurova_area = { #3
@@ -1304,7 +1270,7 @@ palestine_area = { #3
 
 dulkadir_area = { # 4
 	color = { 184 54 72 }
-	332 2303 2308 4310
+	  2308 
 }
 
 iraq_arabi_area = { #5 Lower Mesopotamia
@@ -1320,7 +1286,7 @@ luristan_area = { #4
 }
 
 north_kurdistan_area = { #5
-	418 2306 2307 4295 4296
+	418  4295 4296
 }
 
 khuzestan_area = { #5

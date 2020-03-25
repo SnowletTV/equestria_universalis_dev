@@ -382,6 +382,17 @@
  rzecznica_area_name:0 "Rzecznica"
  rzecznica_area_adj:0 "Rzecznican"
 
+ #Costa Eler
+ salmarkt_area:0 "Salmarkt"
+ salmarkt_area_name:0 "Salmarkt"
+ salmarkt_area_adj:0 "Salmarkter"
+ cannabia_area:0 "Cannabia"
+ cannabia_area_name:0 "Cannabia"
+ cannabia_area_adj:0 "Cannabian"
+ neachora_area:0 "Néachóra"
+ neachora_area_name:0 "Néachóra"
+ neachora_area_adj:0 "Néachoran"
+
  western_herzland_region:0 "Lower Griffking Basin"
  western_herzland_region_name:0 "Lower Griffking Basin"
  western_herzland_region_adj:0 "Low Griffkinger"
@@ -403,3 +414,6 @@
  evi_valley_region:0 "Evi Valley"
  evi_valley_region_name:0 "Evi Valley"
  evi_valley_region_adj:0 "Evi Vallian"
+ costa_eler_region:0 "Costa Eler"
+ costa_eler_region_name:0 "Costa Eler"
+ costa_eler_region_adj:0 "Costa Elerian"
