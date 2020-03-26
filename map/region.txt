@@ -217,6 +217,21 @@ costa_eler_region = {
 		scarlet_area
 	}
 }
+
+karthinnia_region = {
+	areas = {
+		alba_torre_area
+		niemals_area
+		sudfolc_and_jojo_area
+		falcor_area
+		matton_area
+		asbolus_area
+		thick_territory_area
+		wrobert_area
+		lowing_gap_area
+		taloncana_area
+	}
+}
 ########################################
 # OBSOLEAT                             #
 ########################################

@@ -886,6 +886,50 @@ eritrocefalia_area {
 scarlet_area {
 	124 127 1247 2986 
 }
+
+########################################
+# Karthinnia					 	   #
+########################################
+
+alba_torre_area {
+	150 325 328 330 2746
+}
+
+niemals_area {
+	110 1871 4176 2978
+}
+
+sudfolc_and_jojo_area {
+	111 200 1774 4391 
+}
+
+falcor_area {
+	113 114 4386
+}
+
+matton_area {
+	141 198 1826 1827 1954 3000 
+}
+
+asbolus_area {
+	1766 2991 3001
+}
+
+thick_territory_area {
+	104 105 108 109 212 1862 
+}
+
+wrobert_area {
+	102 103 1875 2992 4288
+}
+
+lowing_gap_area {
+	106 115 116
+}
+
+taloncana_area {
+	117 123 213 2977 2984
+}
 ########################################
 # France					 		   #
 ########################################
@@ -897,23 +941,11 @@ brittany_area = { #5
 }
 
 provence_area = { #3
-	201 202 2991
-}
-
-poitou_area = { #4
-	 4386 
-}
-
-guyenne_area = { #3
-	 198 
+	201 202 
 }
 
 pyrenees_area = { #3
 	  176 173
-}
-
-languedoc_area = { #4
-	 200  4391
 }
 
 savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
@@ -929,7 +961,7 @@ aragon_area = { #4
 }
 
 catalonia_area = { #5
-	197 212 213 2987 2988
+	197   2987 2988
 }
 
 valencia_area = { #5
@@ -990,24 +1022,20 @@ macaronesia_area = { #3
 # Italy					 			   #
 ########################################
 
-venetia_area = { #4
-	108 111  1774
-}
-
 lombardy_area = { #4
-	104 107 109 1862
+	 107  
 }
 
 piedmont_area = { #4
-	103 1875 2979 2981
+	  2979 2981
 }
 
 tuscany_area = { #5
-	115 116 117 2978 2980
+	   2980
 }
 
 liguria_area = { #3
-	101 102 2992
+	101  
 }
 
 naples_area = { #3  #Lazio-Campania
@@ -1015,20 +1043,15 @@ naples_area = { #3  #Lazio-Campania
 }
 
 calabria_area = { #3 (+Lucania)
-	123 1934 2984
+	 1934 
 }
 
 apulia_area = { #3
 	122 1933 2985
 }
 
-emilia_romagna_area = { #4
-	color = { 24 222 66 }
-	105 106 113 114
-}
-
 central_italy_area = { #4
-	119 120 2976 2977
+	119 120 2976 
 }
 
 ########################################
@@ -1188,7 +1211,7 @@ upper_bavaria_area = { #3
 }
 
 tirol_area = { #3
-	73 110
+	73 
 }
 
 austria_proper_area = { #3
@@ -1200,28 +1223,19 @@ inner_austria_area = { #3
 	132 
 }
 
-romandie_area = { #3
-	  1871
-}
-
 ########################################
 # South Eastern Europe 				   #
 ########################################
-
-macedonia_area = { #4 (Macedonia)
-	  3001
-}
-
 bulgaria_area = { #5
-	150  1765 2746
+	  1765 
 }
 
 serbia_area = { #4
-	141 3000 4176 4239
+	   4239
 }
 
 rascia_area = { #3
-	138 1766 1827
+	138  
 }
 
 bosnia_area = { #4
@@ -1231,14 +1245,6 @@ bosnia_area = { #4
 croatia_area = { #5
 	color = { 18 126 16 }
 	152 1767 1828
-}
-
-east_adriatic_coast_area = { #3
-	  1826
-}
-
-alfold_area = { #4
-	  1954 
 }
 
 transdanubia_area = { #5
@@ -1259,18 +1265,9 @@ samtskhe_area = { #3
 # Anatolia, The Levant & Mesopotamia   #
 ########################################
 
-erzurum_area = { #3	Erzurum and Trebizond
-	330  
-}
-
-
 aydin_area = { #5
 	color = {  70 86 }
 	  4309
-}
-
-kastamonu_area = { #4
-	325 328  
 }
 
 karaman_area = { #4
@@ -1286,7 +1283,7 @@ palestine_area = { #3
 }
 
 basra_area = { #4
-	408 2311 2312 4288
+	408 2311 2312 
 }
 
 khuzestan_area = { #5
