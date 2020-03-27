@@ -17,6 +17,7 @@ southern_griffonia_superregion = {
 	evi_valley_region
 	costa_eler_region
 	karthinnia_region
+	transfolinia_region
 }
 
 india_superregion = {

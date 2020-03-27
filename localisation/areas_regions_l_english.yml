@@ -481,6 +481,20 @@
  taloncana_area:0 "Taloncana"
  taloncana_area_name:0 "Taloncana"
  taloncana_area_adj:0 "Taloncanan"
+ warthog_forest_area:0 "Warthog Forest"
+ warthog_forest_area_name:0 "Warthog Forest"
+ warthog_forest_area_adj:0 "Warthog Forester"
+ karthin_area:0 "Karthin"
+ karthin_area_name:0 "Karthin"
+ karthin_area_adj:0 "Karthinian"
+ librarsia_area:0 "Librarsia"
+ librarsia_area_name:0 "Librarsia"
+ librarsia_area_adj:0 "Librarsian"
+
+ #Transfolinia
+ arantiga_area:0 "Arantiga"
+ arantiga_area_name:0 "Arantiga"
+ arantiga_area_adj:0 "Arantigan"
 
  western_herzland_region:0 "Lower Griffking Basin"
  western_herzland_region_name:0 "Lower Griffking Basin"
@@ -509,3 +523,6 @@
  karthinnia_region:0 "Karthinnia"
  karthinnia_region_name:0 "Karthinnia"
  karthinnia_region_adj:0 "Karthinnian"
+ transfolinia_region:0 "Transfolinia"
+ transfolinia_region_name:0 "Transfolinia"
+ transfolinia_region_adj:0 "Transfolinian"

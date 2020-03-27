@@ -158,6 +158,7 @@ aquileia_region = {
 		cloudguard_area
 		lissay_area
 		adelart_area
+		southtarrin_area
 	}
 }
 
@@ -230,6 +231,15 @@ karthinnia_region = {
 		wrobert_area
 		lowing_gap_area
 		taloncana_area
+		warthog_forest_area
+		karthin_area
+		librarsia_area
+	}
+}
+
+transfolinia_region = {
+	areas = {
+		arantiga_area
 	}
 }
 ########################################
