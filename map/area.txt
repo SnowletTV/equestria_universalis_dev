@@ -303,7 +303,7 @@ vinovia_area = {
 	187 186 4388 183 1879 1877
 }
 skyaluzze_area = {
-	131 4173 129
+	131 4173 129 218
 }
 vanguardino_area = {
 	70 4389 177
@@ -1022,7 +1022,7 @@ basque_country = { #3
 
 leon_area = { #5
 	color = { 243 235 28 }
-	208  218 1747
+	208 1747
 }
 
 beieras_area = { #4
