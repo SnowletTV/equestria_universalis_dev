@@ -330,7 +330,7 @@ flowena_area = {
 	4369 4366 266
 }
 tarrin_area = {
-	1768 1872 68 76 1868 69
+	1768 1872 68   
 }
 southtarrin_area = {
 	128 1764 2750
@@ -355,6 +355,10 @@ lissay_area = {
 }
 adelart_area = {
 	42 2958 767
+}
+
+easttarrin_area {
+	69 76 1868 4335
 }
 
 ########################################
@@ -844,7 +848,7 @@ lillai_area {
 }
 
 anamesa_area {
-	323 327 2211 4335
+	323 327 2211 
 }
 
 thermorion_area {
@@ -852,11 +856,11 @@ thermorion_area {
 }
 
 phocapetra_area {
-	324 418 2308 4295
+	324 418  4295
 }
 
 minos_area {
-	426 2206 4292 4296 
+	  4292 4296 2308
 }
 
 arahno_pass_area {
@@ -904,11 +908,11 @@ sudfolc_and_jojo_area {
 }
 
 falcor_area {
-	113 114 4386
+	113 114 4386 1826 228
 }
 
 matton_area {
-	141 198 1826 1827 1954 3000 
+	141 198  1827 1954 3000 
 }
 
 asbolus_area {
@@ -949,6 +953,30 @@ librarsia_area {
 arantiga_area {
 	73 132 134 2955
 }
+
+pulcino_area {
+	138 201 1828 1831 3002
+}
+
+goldenfeather_area {
+	152 1767 1864 4126
+}
+
+luchihoot_area {
+	139 140 1765 4239
+}
+
+talononte_area {
+	426 1747 2987
+}
+
+griffbound_area {
+	1851 2206 2988 
+}
+
+navarro_area {
+	173 176 197 202 204 
+}
 ########################################
 # France					 		   #
 ########################################
@@ -959,17 +987,7 @@ brittany_area = { #5
 	169 170 171 172 4384 
 }
 
-provence_area = { #3
-	201 202 
-}
 
-pyrenees_area = { #3
-	  176 173
-}
-
-savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy 
-	 204 
-}
 
 ########################################
 # Iberia					 		   #
@@ -977,10 +995,6 @@ savoy_dauphine_area = { #3 Savoy and Dauphiné, Upper Burgundy
 
 aragon_area = { #4
 	211 214 2990 4557
-}
-
-catalonia_area = { #5
-	197   2987 2988
 }
 
 valencia_area = { #5
@@ -1005,7 +1019,7 @@ toledo_area = { #5
 }
 
 asturias_area = { #4
-	 207 4552 1746
+	 207 4552 
 }
 
 galicia_area = { #4
@@ -1022,11 +1036,11 @@ basque_country = { #3
 
 leon_area = { #5
 	color = { 243 235 28 }
-	208 1747
+	208 1746
 }
 
 beieras_area = { #4
-   228 1851 4556
+     4556
 }
 
 alentejo_area = { #4
@@ -1183,35 +1197,6 @@ tambov_area = { #3
 
 saratov_area = { #3
 	 2418 2419
-}
-
-########################################
-# South Eastern Europe 				   #
-########################################
-bulgaria_area = { #5
-	  1765 
-}
-
-serbia_area = { #4
-	   4239
-}
-
-rascia_area = { #3
-	138  
-}
-
-bosnia_area = { #4
-	139 140 1831 3002
-}
-
-croatia_area = { #5
-	color = { 18 126 16 }
-	152 1767 1828
-}
-
-transdanubia_area = { #5
-	color = { 171 92 22 }
-	 1864 4126 
 }
 
 ########################################

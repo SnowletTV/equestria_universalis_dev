@@ -159,6 +159,7 @@ aquileia_region = {
 		lissay_area
 		adelart_area
 		southtarrin_area
+		easttarrin_area
 	}
 }
 
@@ -240,6 +241,12 @@ karthinnia_region = {
 transfolinia_region = {
 	areas = {
 		arantiga_area
+		pulcino_area
+		goldenfeather_area
+		luchihoot_area
+		talononte_area
+		griffbound_area
+		navarro_area
 	}
 }
 ########################################
