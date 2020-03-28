@@ -119,6 +119,20 @@ verenia_region = {
 	}
 }
 
+periphery_region = {
+	areas = {
+		fezera_area
+		marcon_area
+		cloudguard_area
+		falcontown_area
+		adelart_area
+		lissay_area
+		pomovarra_area
+		flowena_area
+		pulliers_area
+	}
+
+}
 griffonstone_region = {
 	areas = {
 		stone_highland_area
@@ -148,16 +162,7 @@ aquileia_region = {
 		leuse_area
 		meshorio_area
 		southwestkeep_area
-		pomovarra_area
-		flowena_area
 		tarrin_area
-		marcon_area
-		fezera_area
-		pulliers_area
-		falcontown_area
-		cloudguard_area
-		lissay_area
-		adelart_area
 		southtarrin_area
 		easttarrin_area
 	}
@@ -247,6 +252,24 @@ transfolinia_region = {
 		talononte_area
 		griffbound_area
 		navarro_area
+	}
+}
+
+southern_riverlands_region = {
+	areas = {
+		fireshore_area
+		lagosta_area
+		new_cervus_area
+		barrad_area
+		iomal_fairge_area
+		ponaidhean_eibhinn_area
+		fearann_ponaidh_area
+		wittenland_area
+		wild_vodina_area
+		kurai_area
+		darnish_highlands_area
+		cumlia_area
+		fyrdland_area
 	}
 }
 ########################################

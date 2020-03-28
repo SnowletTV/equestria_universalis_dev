@@ -977,6 +977,61 @@ griffbound_area {
 navarro_area {
 	173 176 197 202 204 
 }
+
+########################################
+# Southern Riverlands				   #
+########################################
+fireshore_area {
+	407 1065 2362 
+}
+
+lagosta_area {
+	1074 1075 4691
+}
+
+new_cervus_area {
+	478 1066 2357 2359 2434 
+}
+
+barrad_area {
+	215 465 1973 2353 2432 4679 
+}
+
+iomal_fairge_area {
+	2352 2361 2369
+}
+
+ponaidhean_eibhinn_area {
+	477 1067 1966 2366 4222
+}
+
+fearann_ponaidh_area {
+	217 470 2360 4556 
+}
+
+wittenland_area {
+	472 716 2367 2443 
+}
+
+wild_vodina_area {
+	1076 1972 4681  
+}
+
+kurai_area {
+	714 1061 2355 2427 
+}
+
+darnish_highlands_area {
+	718 719 1780 4683 
+}
+
+cumlia_area {
+	1063 1080 1970 4684 
+}
+
+fyrdland_area {
+	1055 1060 2351 2365 4339 
+}
 ########################################
 # France					 		   #
 ########################################
@@ -1011,7 +1066,7 @@ upper_andalucia_area = { #4
 
 castille_area = { #3
 	color = { 58 58 207 }
-	215 217 2755 4551
+	  2755 4551
 }
 
 toledo_area = { #5
@@ -1037,10 +1092,6 @@ basque_country = { #3
 leon_area = { #5
 	color = { 243 235 28 }
 	208 1746
-}
-
-beieras_area = { #4
-     4556
 }
 
 alentejo_area = { #4
@@ -1160,15 +1211,11 @@ samara_area = { #3
 }
 
 lower_yik_area = { #4
-	 474 2365 2367
-}
-
-nogai_area = { #5
-	465 470  472 2366
+	 474  
 }
 
 ural_area = { #5
-	1080 1078 1780 2427 2441 
+	 1078   2441 
 }
 
 arkhangelsk_area = { #4
@@ -1176,7 +1223,7 @@ arkhangelsk_area = { #4
 }
 
 bashkiria_area = { #5
-	475 1965 1966 2420 2444
+	475 1965  2420 2444
 }
 
 volga_area = { #3
@@ -1188,7 +1235,7 @@ galich_area = { #4
 }
 
 kama_area = { #4
-	305 1962 1972 4266
+	305 1962  4266
 }
 
 tambov_area = { #3
@@ -1237,11 +1284,6 @@ khuzestan_area = { #5
 	412 2217 4289  4342
 }
 
-
-al_jazira_area = { #5
-	color = { 92 200 92 }
-	407    
-}
 
 
 ########################################
@@ -1892,10 +1934,6 @@ arys_area = { #3
 	457 2364 2356
 }
 
-kyzylkum_area = { #3
-	 1970 
-}
-
 transoxiana_area = { #3
 	 453 454
 }
@@ -1905,7 +1943,7 @@ termez_area = { #3
 }
 
 khiva_area = { #5
-	440  1973 2362 
+	440    
 }
 
 kabulistan_area = { #5
@@ -1969,7 +2007,7 @@ isfahan_area = { #3
 
 
 tabarestan_area = { #5
-	  2214 4339 
+	  2214  
 }
 
 ########################################
@@ -2536,19 +2574,19 @@ sakha_area = { #3
 }
 
 buryatia_area = { #5
-	1055 1056 1057 1058 2446
+	 1056 1057 1058 2446
 }
 
 tunguska_area = { #5
-	1059 1061 2431 2432 2436  
+	1059  2431  2436  
 }
 
 central_siberia_area = { #5
-	1064 1067 1068 1070 2430
+	1064  1068 1070 2430
 }
 
 kara_area = { #5
-	1069 1072 1073 2445 4691
+	1069 1072 1073 2445 
 }
 
 ob_area = { #4
@@ -2556,7 +2594,7 @@ ob_area = { #4
 }
 
 irkutsk_area = { #5
-	1060 1062 1063 2442 2443
+	 1062  2442 
 }
 
 perm_area = { #5
@@ -2564,27 +2602,27 @@ perm_area = { #5
 }
 
 balchasj_area = { #5
-	477 478 2355 2360 4685
+	    4685
 }
 
 kazakhstan_area = { #5
-	476 2351 2353 2358 2359
+	476   2358 
 }
 
 syr_darya_area = { #4
-	456 1969 2352 2361
+	456 1969  
 }
 
 yrtesh_area = { #5
-	1071 2434 4687 4688 4689
+	1071  4687 4688 4689
 }
 
 ishim_area = { #5
-	1074 1075 1076 2369 4692
+	=   4692
 }
 
 aqmola_area = { #5
-	479 2354 2357 4686 4690
+	479 2354  4686 4690
 }
 
 ########################################
@@ -2661,11 +2699,7 @@ xilin_gol_area = {
 
 altai_sayan_area = { #3
 	color = { 203 84 84 }
-	718 2117 4222 4680 4682
-}
-
-tannu_uriankhai_area = {#3
-	716 1065 1066 4679
+	 2117  4680 4682
 }
 
 central_mongolia_area = { #3
@@ -2673,7 +2707,7 @@ central_mongolia_area = { #3
 }
 
 uliastai_area = {#3
-	719  2190 4668 4678
+	  2190 4668 4678
 }
 
 jetysuu_area = { #5
@@ -2699,7 +2733,7 @@ turpan_kumul_area = { #4
 
 zungaria_area = { #5
 	color = { 65 220 28 }
-	713 715 2120 4208 4683
+	713 715 2120 4208 
 }
 
 amdo_area = { #4
@@ -2711,7 +2745,7 @@ tsang_area = { #5
 }
 
 north_zungaria = { #3
-	714 2118 2119 4681 4684
+	 2118 2119  
 }
 
 kham_area = { #5
