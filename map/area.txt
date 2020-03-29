@@ -740,6 +740,21 @@ south_vartai_area {
 	261 268 2961 4541
 }
 
+kaza_ar_bark_area {
+	4245 4251 4253 
+}
+
+diamond_mountain_area {
+	300 4147 4252
+}
+
+var_woolth_area {
+	296 2423 4263 
+}
+
+dit_kazar_area {
+	295 1957 4262
+}
 ########################################
 # Evi Valley			    		   #
 ########################################
@@ -1164,12 +1179,8 @@ ryazan_area = { #4
 	301 1778 4255
 }
 
-moscow_area = { #4
-	295 4251 4252
-}
-
 vladimir_area = { #3
-	307 4147 4253
+	307  
 }
 
 yaroslavl_area = { #4
@@ -1182,16 +1193,11 @@ suzdal_area = { #3
 }
 
 smolensk_area = { #4
-	293 297 4244 4245
+	293 297 4244 
 }
 
 oka_area = { #3
-	296 300 4116
-}
-
-
-vologda_area = { #3
-	 4262 4263
+	  4116
 }
 
 beloozero_area = { #3
@@ -1207,7 +1213,7 @@ kazan_area = { #3
 }
 
 samara_area = { #3
-	473 1081 2423
+	473 1081 
 }
 
 lower_yik_area = { #4
@@ -1231,7 +1237,7 @@ volga_area = { #3
 }
 
 galich_area = { #4
-	1079 1083 1957
+	1079 1083 
 }
 
 kama_area = { #4

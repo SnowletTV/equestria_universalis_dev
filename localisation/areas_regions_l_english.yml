@@ -321,7 +321,7 @@
  easttarrin_area_name:0 "East Tarrin"
  easttarrin_area_adj:0 "East Tarrinner"
 
- #Hellsword 
+ #Western Riverlands 
  lauksstrumman_area:0 "Làuksstrumman"
  lauksstrumman_area_name:0 "Lauksstrumman"
  lauksstrumman_area_adj:0 "Lauksstrummanian"
@@ -340,6 +340,19 @@
  south_vartai_area:0 "South Vartai"
  south_vartai_area_name:0 "South Vartai"
  south_vartai_area_adj:0 "South Vartaian"
+ kaza_ar_bark_area:0 "Kaza-ar-Bark"
+ kaza_ar_bark_area_name:0 "Kaza-ar-Bark"
+ kaza_ar_bark_area_adj:0 "Kaza-ar-Barker"
+ diamond_mountain_area:0 "Diamond Mountain"
+ diamond_mountain_area_name:0 "Diamond Mountain"
+ diamond_mountain_area_adj:0 "Diamond Mountainer"
+ var_woolth_area:0 "Var-Woolth"
+ var_woolth_area_name:0 "Var-Woolth"
+ var_woolth_area_adj:0 "Var-Woolthian"
+ dit_kazar_area:0 "Dit-Kazar"
+ dit_kazar_area_name:0 "Dit-Kazar"
+ dit_kazar_area_adj:0 "Dit-Kazarian"
+
 
  #Evi Valley
  lushi_area:0 "Lushi"

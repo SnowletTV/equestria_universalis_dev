@@ -176,6 +176,10 @@ western_riverlands_region = {
 		panaceja_area
 		north_vartai_area
 		south_vartai_area
+		kaza_ar_bark_area
+		diamond_mountain_area
+		var_woolth_area
+		dit_kazar_area
 	}
 }
 
