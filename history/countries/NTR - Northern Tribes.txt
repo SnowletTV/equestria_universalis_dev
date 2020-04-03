@@ -1,0 +1,20 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+primary_culture = northpony
+religion = pony_animism
+technology_group = north_american
+capital = 315
+
+
+1440.6.20 = {
+	monarch = {
+		name = "Fiana II"
+		dynasty = "Swamphoof"
+		birth_date = 1397.10.5
+		adm = 1
+		dip = 3
+		mil = 4
+		female = yes
+	}
+}

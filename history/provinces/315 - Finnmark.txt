@@ -1,8 +1,8 @@
-owner = ICT
-controller = ICT
+owner = NTR
+controller = NTR
 culture = northpony
 religion = pony_animism
-add_core = ICT
+add_core = NTR
 hre = no
 base_tax = 1
 base_production = 1

@@ -1,6 +1,6 @@
-owner = BLK
-add_core = BLK
-controller = BLK
+owner = VED
+add_core = VED
+controller = VED
 culture = cloudburian
 religion = old_believer
 hre = no

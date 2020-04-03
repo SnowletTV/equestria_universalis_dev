@@ -1,8 +1,8 @@
-owner = SKR
-controller = SKR
+owner = VED
+controller = VED
 culture = vedinian
 religion = old_believer
-add_core = SKR
+add_core = VED
 hre = no
 capital = "Veteborg"
 base_tax = 1

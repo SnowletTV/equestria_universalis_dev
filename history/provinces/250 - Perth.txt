@@ -1,10 +1,10 @@
 #250 - Perth
 
-owner = SKR
-controller = SKR
+owner = VED
+controller = VED
 culture = vedinian
 religion = old_believer
-add_core = SKR
+add_core = VED
 hre = no
 base_tax = 1
 base_production = 1

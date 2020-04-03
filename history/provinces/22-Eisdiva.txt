@@ -1,8 +1,8 @@
-owner = SNF
-controller = SNF
+owner = NTR
+controller = NTR
 culture = northpony
 religion = pony_animism
-add_core = SNF
+add_core = NTR
 hre = no
 base_tax = 1
 base_production = 1

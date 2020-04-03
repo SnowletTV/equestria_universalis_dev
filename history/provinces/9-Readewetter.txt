@@ -1,8 +1,8 @@
-owner = RDW
-controller = RDW
+owner = STW
+controller = STW
 culture = featherisian
 religion = archonate
-add_core = RDW
+add_core = STW
 hre = no
 base_tax = 2
 base_production = 3

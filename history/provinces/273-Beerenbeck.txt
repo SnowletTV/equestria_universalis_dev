@@ -1,8 +1,8 @@
-owner = BEE
-controller = BEE
+owner = STW
+controller = STW
 culture = griffkingian
 religion = archonate
-add_core = BEE
+add_core = STW
 hre = no
 base_tax = 3
 base_production = 2

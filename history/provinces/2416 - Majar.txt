@@ -1,8 +1,8 @@
-owner = SNC
-controller = SNC
+owner = MNC
+controller = MNC
 culture = whitetailer
 religion = maarite
-add_core = SNC
+add_core = MNC
 hre = no
 base_tax = 1
 base_production = 1

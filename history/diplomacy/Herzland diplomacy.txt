@@ -1,40 +1,62 @@
-guarantee = {
-	first = ROT
-	second = KLB
-	start_date = 1440.2.10
+vassal = {
+	first = GRI
+	second = STW
+	start_date = 1435.1.1
 	end_date = 1670.1.1
 }
 
-march = {
-	first = KTR
-	second = CNA
-	start_date = 1396.5.4
+vassal = {
+	first = GRI
+	second = FEA
+	start_date = 1435.1.1
 	end_date = 1670.1.1
 }
 
-march = {
-	first = KTR
-	second = HEL
-	start_date = 1364.8.11
-	end_date = 1670.1.1
-}
-alliance = {
-	first = FEA
-	second = RDW
-	start_date = 1364.8.11
+vassal = {
+	first = GRI
+	second = BRZ
+	start_date = 1435.1.1
 	end_date = 1670.1.1
 }
 
-alliance = {
-	first = BEE
-	second = OSN
-	start_date = 1300.1.1
+vassal = {
+	first = GRI
+	second = MNC
+	start_date = 1435.1.1
 	end_date = 1670.1.1
 }
 
-guarantee = {
-	first = WIN
-	second = FLU
-	start_date = 1286.3.11
+vassal = {
+	first = GRI
+	second = ANG
+	start_date = 1435.1.1
+	end_date = 1670.1.1
+}
+
+vassal = {
+	first = GRI
+	second = YAL
+	start_date = 1435.1.1
+	end_date = 1670.1.1
+}
+
+vassal = {
+	first = GRI
+	second = KTR
+	start_date = 1435.1.1
+	end_date = 1670.1.1
+}
+
+vassal = {
+	first = GRI
+	second = RMA
+	start_date = 1435.1.1
+	end_date = 1670.1.1
+}
+
+vassal = {
+	first = GRI
+	second = PYT
+	start_date = 1435.1.1
 	end_date = 1670.1.1
 }

@@ -9,12 +9,12 @@ capital = 17
 
 1440.6.20 = {
 	monarch = {
-		name = "Spruce"
-		dynasty = "Swamphoof"
+		name = "Asper"
+		dynasty = "Sickleclaw"
 		birth_date = 1397.10.5
 		adm = 1
 		dip = 3
 		mil = 4
-		female = yes
+		female = no
 	}
 }

@@ -1,0 +1,53 @@
+graphical_culture = westerngfx
+
+color = { 207 133 97 }
+
+revolutionary_colors = { 5  0  5 } #Made up
+
+historical_idea_groups = {
+	maritime_ideas
+	administrative_ideas
+	aristocracy_ideas
+	expansion_ideas
+	naval_ideas 
+	trade_ideas 
+	quality_ideas
+	economic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	
+}
+
+leader_names = {
+	
+}
+
+ship_names = {
+	
+}
+
+army_names = {
+
+}
+
+fleet_names = {
+
+}

@@ -1,8 +1,8 @@
-owner = KLB
-controller = KLB
+owner = FAT
+controller = FAT
 culture = cloudburian
 religion = archonate
-add_core = KLB
+add_core = FAT
 hre = no
 base_tax = 3
 base_production = 3

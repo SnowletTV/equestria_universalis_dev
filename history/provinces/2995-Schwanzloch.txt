@@ -1,8 +1,8 @@
-owner = EIN
-controller = EIN
+owner = STW
+controller = STW
 culture = griffkingian
 religion = archonate
-add_core = EIN
+add_core = STW
 hre = no
 base_tax = 2
 base_production = 1

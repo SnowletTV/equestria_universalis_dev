@@ -1,8 +1,8 @@
-owner = KTR
-controller = KTR
+owner = ANG
+controller = ANG
 culture = katerin
 religion = old_believer
-add_core = KTR
+add_core = ANG
 hre = no
 base_tax = 1
 base_production = 1

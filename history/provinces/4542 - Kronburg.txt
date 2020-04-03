@@ -1,8 +1,8 @@
-owner = KTR
-controller = KTR
+owner = GRI
+controller = GRI
 culture = griffkingian
 religion = archonate
-add_core = KTR
+add_core = GRI
 hre = no
 base_tax = 1
 base_production = 1

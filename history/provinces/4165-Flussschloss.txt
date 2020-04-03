@@ -1,8 +1,8 @@
-owner = FLU
-controller = FLU
+owner = STW
+controller = STW
 culture = griffkingian
 religion = archonate
-add_core = FLU
+add_core = STW
 hre = no
 base_tax = 3
 base_production = 2

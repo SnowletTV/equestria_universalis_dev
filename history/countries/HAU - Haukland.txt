@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+technology_group = western
+unit_type = western
+primary_culture = hauklandish
+religion = old_believer
+capital = 4365
+fixed_capital = 4365
+
+1440.6.20 = {
+	monarch = {
+		name = "Hermann"
+		dynasty = "Meyer"
+		female = no
+		birth_date = 1409.10.5
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}

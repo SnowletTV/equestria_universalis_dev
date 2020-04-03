@@ -1,8 +1,8 @@
-owner = BEE
-controller = BEE
+owner = BRZ
+controller = BRZ
 culture = griffkingian
 religion = archonate
-add_core = BEE
+add_core = BRZ
 hre = no
 base_tax = 2
 base_production = 1

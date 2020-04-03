@@ -1,8 +1,8 @@
-owner = LXB
-controller = LXB
+owner = FEA
+controller = FEA
 culture = south_griffkingian
 religion = archonate
-add_core = LXB
+add_core = FEA
 hre = no
 base_tax = 1
 base_production = 1

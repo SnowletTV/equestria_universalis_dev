@@ -1,0 +1,22 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = western
+unit_type = western
+primary_culture = whitetailer
+religion = old_believer
+capital = 2197
+
+national_focus = MIL
+
+1440.6.20 = {
+	monarch = {
+		name = "Eriviar"
+		dynasty = "Sunstriker"
+		female = no
+		birth_date = 1397.10.5
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}

@@ -1,0 +1,46 @@
+graphical_culture = northamericagfx
+
+color = { 157 51 167 }
+
+revolutionary_colors = { 5  0  5 } #Made up
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+
+historical_units = {
+	native_indian_archer
+	native_indian_tribal_warfare
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	iroquois_rifle_scout
+	sioux_dragoon
+	american_western_franchise_warfare
+}
+
+monarch_names = {
+	
+}
+
+leader_names = {
+	
+}
+
+ship_names = {
+	
+}
+
+army_names = {
+
+}
+
+fleet_names = {
+
+}

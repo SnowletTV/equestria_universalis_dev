@@ -1,8 +1,8 @@
-owner = MID
-controller = MID
+owner = YAL
+controller = YAL
 culture = south_griffkingian
 religion = archonate
-add_core = MID
+add_core = YAL
 hre = no
 base_tax = 2
 base_production = 1

@@ -1,8 +1,8 @@
-owner = RMA
-controller = RMA
+owner = FEA
+controller = FEA
 culture = romauan
 religion = arantigan
-add_core = RMA
+add_core = FEA
 hre = no
 base_tax = 1
 base_production = 1

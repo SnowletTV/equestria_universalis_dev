@@ -1,8 +1,8 @@
-owner = VNG
-controller = VNG
+owner = FAT
+controller = FAT
 culture = cloudburian
 religion = archonate
-add_core = VNG
+add_core = FAT
 hre = no
 base_tax = 1
 base_production = 1

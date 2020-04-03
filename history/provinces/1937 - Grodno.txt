@@ -1,5 +1,5 @@
-owner = VIN
-controller = VIN
+owner = GRI
+controller = GRI
 culture = griffkingian
 religion = archonate
 hre = no
@@ -7,6 +7,6 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes 
-add_core = VIN
+add_core = GRI
 
 discovered_by = western

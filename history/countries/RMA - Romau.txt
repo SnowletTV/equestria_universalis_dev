@@ -9,7 +9,7 @@ fixed_capital = 259
 
 1440.6.20 = {
 	monarch = {
-		name = "Ante Adflictio"
+		name = "Ravioli"
 		birth_date = 1408.3.11
 		adm = 5
 		dip = 4

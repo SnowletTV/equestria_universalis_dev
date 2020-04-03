@@ -1,8 +1,8 @@
-owner = SLK
-controller = SLK
+owner = MNC
+controller = MNC
 culture = whitetailer
 religion = old_believer
-add_core = SLK
+add_core = MNC
 hre = no
 base_tax = 1
 base_production = 1

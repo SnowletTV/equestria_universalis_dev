@@ -1,8 +1,8 @@
-owner = CLD
-controller = CLD
+owner = FAT
+controller = FAT
 culture = cloudburian
 religion = old_believer
-add_core = CLD
+add_core = FAT
 hre = no
 base_tax = 1
 base_production = 1

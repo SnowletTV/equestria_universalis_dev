@@ -1,8 +1,8 @@
-owner = MST
-controller = MST
+owner = FAT
+controller = FAT
 culture = whitetailer
 religion = old_believer
-add_core = MST
+add_core = FAT
 hre = no
 base_tax = 1
 base_production = 1

@@ -1,8 +1,8 @@
-owner = HEL
-controller = HEL
+owner = GRI
+controller = GRI
 culture = south_griffkingian
 religion = archonate
-add_core = HEL
+add_core = GRI
 hre = no
 base_tax = 3
 base_production = 4

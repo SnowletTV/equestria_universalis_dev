@@ -1,8 +1,8 @@
-owner = PNE
-controller = PNE
+owner = SRS
+controller = SRS
 culture = northpony
 religion = pony_animism
-add_core = PNE
+add_core = SRS
 hre = no
 base_tax = 1
 base_production = 1

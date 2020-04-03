@@ -1,8 +1,8 @@
-owner = WIN
-controller = WIN
+owner = STW
+controller = STW
 culture = griffkingian
 religion = archonate
-add_core = WIN
+add_core = STW
 hre = no
 base_tax = 5
 base_production = 4

@@ -10,18 +10,7 @@ fixed_capital = 26
 
 1440.6.20 = {
 	monarch = {
-		name = "Walther"
-		dynasty = "Weijermars"
-		female = no
-		birth_date = 1389.10.5
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-1440.6.21 = {
-	heir = {
-		name = "Gerlach"
+		name = "Gerlach IV"
 		dynasty = "Weijermars"
 		female = no
 		birth_date = 1420.1.1

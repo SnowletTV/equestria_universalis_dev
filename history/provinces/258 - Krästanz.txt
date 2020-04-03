@@ -1,8 +1,8 @@
-owner = KRS
-controller = KRS
+owner = BRZ
+controller = BRZ
 culture = griffkingian
 religion = old_believer
-add_core = KRS
+add_core = BRZ
 hre = no
 base_tax = 2
 base_production = 1

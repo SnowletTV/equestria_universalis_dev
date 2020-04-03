@@ -1,8 +1,8 @@
-owner = OSN
-controller = OSN
+owner = STW
+controller = STW
 culture = griffkingian
 religion = archonate
-add_core = OSN
+add_core = STW
 hre = no
 base_tax = 4
 base_production = 4

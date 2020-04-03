@@ -1,8 +1,8 @@
-owner = RMA
-controller = RMA
+owner = YAL
+controller = YAL
 culture = romauan
 religion = arantigan
-add_core = RMA
+add_core = YAL
 hre = no
 base_tax = 1
 base_production = 1

@@ -1,8 +1,8 @@
-owner = RAV
-controller = RAV
+owner = BRZ
+controller = BRZ
 culture = griffkingian
 religion = archonate
-add_core = RAV
+add_core = BRZ
 hre = no
 base_tax = 3
 base_production = 3

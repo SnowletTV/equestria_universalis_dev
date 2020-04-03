@@ -1,8 +1,8 @@
-owner = CRS
-controller = CRS
+owner = BRZ
+controller = BRZ
 culture = griffkingian
 religion = archonate
-add_core = CRS
+add_core = BRZ
 hre = no
 base_tax = 3
 base_production = 2

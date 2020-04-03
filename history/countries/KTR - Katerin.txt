@@ -8,13 +8,13 @@ capital = 1318
 
 1440.6.20 = {
 	monarch = {
-		name = ""
-		dynasty = "Grimclaw"
+		name = "Diellza"
+		dynasty = "von Katerinburg"
 		birth_date = 1400.3.11
 		adm = 3
 		dip = 3
 		mil = 3
-		female = no
+		female = yes
 	}
 }
 
